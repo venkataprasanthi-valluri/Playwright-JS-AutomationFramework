@@ -1,7 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","3882","DW2_Home","","2026-01-29","passed","2026-01-29","","UI\DW2_Home.spec.js","",""
-"","4844","DW3_AddingItemsToCart","","2026-01-29","passed","2026-01-29","","UI\DW3_AddingItemsToCart.spec.js","",""
-"","3989","DW6_orderVerification","","2026-01-29","passed","2026-01-29","","UI\DW6_orderVerification.spec.js","",""
-"","3616","DW4_shoppingCart","","2026-01-29","passed","2026-01-29","","UI\DW4_shoppingCart.spec.js","",""
-"","8431","DW5_checkout","","2026-01-29","passed","2026-01-29","","UI\DW5_checkout.spec.js","",""
-"","3375","DW1_Login","","2026-01-29","passed","2026-01-29","","UI\DW1_Login.spec.js","",""
