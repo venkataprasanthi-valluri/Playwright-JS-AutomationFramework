@@ -1,0 +1,35 @@
+{
+	"validUser" : 
+	{
+		"Email" : "christmas.santa@gmail.com",
+		"Password" : "Password@123"	
+	},
+	
+	"invalidUser" :
+	{
+		"Email" : "christmas.santa@gmail.com",
+		"Password" : "Password@123456"	
+		
+	},
+	
+	"shoppingCart":
+	{
+		"country" : "1",
+		"state" : "48",
+		"zipcode" : "17050"
+	},
+	
+	"billingAddress":
+	{
+		"country" : "1",
+		"state" : "48",
+		"city" : "Mechanicsburg",
+		"address1" : "5001 Carlisle Pike",
+		"zipcode" : "17050",
+		"phonenumber" : "9999999999"
+		
+	}
+	
+	
+
+}
