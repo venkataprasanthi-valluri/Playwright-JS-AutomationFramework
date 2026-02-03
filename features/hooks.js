@@ -6,7 +6,7 @@ const {Before, After} = require('@cucumber/cucumber');
 
 Before(async function(){
 	
-	this.browser = await chromium.launch({headless: false});
+	this.browser = await chromium.launch({headless: true});
 	this.context = await this.browser.newContext();
 	this.page = await this.context.newPage();
 		
