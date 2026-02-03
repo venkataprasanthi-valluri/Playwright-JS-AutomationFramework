@@ -1,3 +1,4 @@
+
  const {test, expect} = require('@playwright/test');
 let webContext;
 
@@ -38,19 +39,7 @@ test('DW_Add to Cart', async() => {
 	
 });
 
-test('DW_Navigating to Cart', async({browser})=>
-{
-	const context = await browser.newContext();
-	const page = await context.newPage();
-	await page.goto("https://demowebshop.tricentis.com/");
-	await page.getByText("Shopping cart").nth(1).click();
-	await expect(page.locator(".page-title")).toBeVisible();
-	await context.storageState({path: 'cart.json'});
-	await browser.newContext({storageState: 'cart.json'});
-	webContext = await browser.newContext({storageState: 'cart.json'});
 	
-	
-});	
 
 //test('DW_Checkout', async()=> {
 //	await page.locator("#CountryId").selectOption("1");

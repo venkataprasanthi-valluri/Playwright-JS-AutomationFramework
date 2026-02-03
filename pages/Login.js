@@ -22,13 +22,12 @@ class Login{
 	
 	async goTo()
 	{
-		await this.page.goto("https://demowebshop.tricentis.com/");
+		await this.page.goto("https://demowebshop.tricentis.com/login");
 	}
 	
 	async validLogin(Email, Password)
 	
 	{
-		await this.login_link.click();
 		await this.email.fill(Email);
 		await this.password.fill(Password);
 		await this.login_button.click();

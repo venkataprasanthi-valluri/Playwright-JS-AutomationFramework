@@ -1,4 +1,4 @@
-{
+ {
   "name": "playwright_new",
   "version": "1.0.0",
   "description": "",
@@ -9,6 +9,7 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@cucumber/cucumber": "^12.6.0",
     "@playwright/test": "^1.58.0",
     "@types/node": "^25.1.0",
     "allure-playwright": "^3.4.5"
