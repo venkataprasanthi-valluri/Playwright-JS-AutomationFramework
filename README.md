@@ -12,11 +12,7 @@ Design Pattern: POM
 
 BDD: Cucumber
 
-Reporting: HTML, Allure 
+Reporting: HTML, Allure
 
 CI/CD: GitHub workflows
-
-
-
-
 
