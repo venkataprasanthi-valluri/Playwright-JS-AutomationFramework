@@ -16,7 +16,7 @@ test('practice1', async({page})=>{
 		
 }); 
 
-test.only('table',async({page})=>{
+test('table',async({page})=>{
 	
 	await page.goto("https://playwright.dev/docs/test-assertions");
 	const rows = await page.locator("table").nth(0).locator("tbody tr");
