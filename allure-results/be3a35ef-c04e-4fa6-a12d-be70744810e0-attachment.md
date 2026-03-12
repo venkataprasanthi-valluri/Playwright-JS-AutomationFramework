@@ -1,0 +1,1179 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - region "Skip to main content":
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#__docusaurus_skipToContent_fallback"
+  - navigation "Main" [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Playwright logo Playwright" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "Playwright logo" [ref=e9]
+          - generic [ref=e10]: Playwright
+        - link "Docs" [ref=e11] [cursor=pointer]:
+          - /url: /docs/intro
+        - link "API" [ref=e12] [cursor=pointer]:
+          - /url: /docs/api/class-playwright
+        - button "Node.js" [ref=e14] [cursor=pointer]
+        - link "Community" [ref=e15] [cursor=pointer]:
+          - /url: /community/welcome
+      - generic [ref=e16]:
+        - link "GitHub repository" [ref=e17] [cursor=pointer]:
+          - /url: https://github.com/microsoft/playwright
+        - link "Discord server" [ref=e18] [cursor=pointer]:
+          - /url: https://aka.ms/playwright/discord
+        - button "Switch between dark and light mode (currently system mode)" [ref=e20] [cursor=pointer]:
+          - img [ref=e21]
+        - button "Search (Ctrl+K)" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]:
+            - img [ref=e26]
+            - generic [ref=e28]: Search
+          - generic [ref=e29]:
+            - img [ref=e31]
+            - generic [ref=e33]: K
+  - generic [ref=e36]:
+    - complementary [ref=e37]:
+      - navigation "Docs sidebar" [ref=e40]:
+        - list [ref=e41]:
+          - listitem [ref=e42]:
+            - button "Getting Started" [expanded] [ref=e44] [cursor=pointer]
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - link "Installation" [ref=e47] [cursor=pointer]:
+                  - /url: /docs/intro
+              - listitem [ref=e48]:
+                - link "Writing tests" [ref=e49] [cursor=pointer]:
+                  - /url: /docs/writing-tests
+              - listitem [ref=e50]:
+                - link "Generating tests" [ref=e51] [cursor=pointer]:
+                  - /url: /docs/codegen-intro
+              - listitem [ref=e52]:
+                - link "Running and debugging tests" [ref=e53] [cursor=pointer]:
+                  - /url: /docs/running-tests
+              - listitem [ref=e54]:
+                - link "Trace viewer" [ref=e55] [cursor=pointer]:
+                  - /url: /docs/trace-viewer-intro
+              - listitem [ref=e56]:
+                - link "Setting up CI" [ref=e57] [cursor=pointer]:
+                  - /url: /docs/ci-intro
+          - listitem [ref=e58]:
+            - link "Getting started - VS Code" [ref=e59] [cursor=pointer]:
+              - /url: /docs/getting-started-vscode
+          - listitem [ref=e60]:
+            - link "Release notes" [ref=e61] [cursor=pointer]:
+              - /url: /docs/release-notes
+          - listitem [ref=e62]:
+            - link "Canary releases" [ref=e63] [cursor=pointer]:
+              - /url: /docs/canary-releases
+          - listitem [ref=e64]:
+            - button "Playwright Test" [expanded] [ref=e66] [cursor=pointer]
+            - list [ref=e67]:
+              - listitem [ref=e68]:
+                - link "Agents" [ref=e69] [cursor=pointer]:
+                  - /url: /docs/test-agents
+              - listitem [ref=e70]:
+                - link "Annotations" [ref=e71] [cursor=pointer]:
+                  - /url: /docs/test-annotations
+              - listitem [ref=e72]:
+                - link "Command line" [ref=e73] [cursor=pointer]:
+                  - /url: /docs/test-cli
+              - listitem [ref=e74]:
+                - link "Configuration" [ref=e75] [cursor=pointer]:
+                  - /url: /docs/test-configuration
+              - listitem [ref=e76]:
+                - link "Configuration (use)" [ref=e77] [cursor=pointer]:
+                  - /url: /docs/test-use-options
+              - listitem [ref=e78]:
+                - link "Emulation" [ref=e79] [cursor=pointer]:
+                  - /url: /docs/emulation
+              - listitem [ref=e80]:
+                - link "Fixtures" [ref=e81] [cursor=pointer]:
+                  - /url: /docs/test-fixtures
+              - listitem [ref=e82]:
+                - link "Global setup and teardown" [ref=e83] [cursor=pointer]:
+                  - /url: /docs/test-global-setup-teardown
+              - listitem [ref=e84]:
+                - link "Parallelism" [ref=e85] [cursor=pointer]:
+                  - /url: /docs/test-parallel
+              - listitem [ref=e86]:
+                - link "Parameterize tests" [ref=e87] [cursor=pointer]:
+                  - /url: /docs/test-parameterize
+              - listitem [ref=e88]:
+                - link "Projects" [ref=e89] [cursor=pointer]:
+                  - /url: /docs/test-projects
+              - listitem [ref=e90]:
+                - link "Reporters" [ref=e91] [cursor=pointer]:
+                  - /url: /docs/test-reporters
+              - listitem [ref=e92]:
+                - link "Retries" [ref=e93] [cursor=pointer]:
+                  - /url: /docs/test-retries
+              - listitem [ref=e94]:
+                - link "Sharding" [ref=e95] [cursor=pointer]:
+                  - /url: /docs/test-sharding
+              - listitem [ref=e96]:
+                - link "Timeouts" [ref=e97] [cursor=pointer]:
+                  - /url: /docs/test-timeouts
+              - listitem [ref=e98]:
+                - link "TypeScript" [ref=e99] [cursor=pointer]:
+                  - /url: /docs/test-typescript
+              - listitem [ref=e100]:
+                - link "UI Mode" [ref=e101] [cursor=pointer]:
+                  - /url: /docs/test-ui-mode
+              - listitem [ref=e102]:
+                - link "Web server" [ref=e103] [cursor=pointer]:
+                  - /url: /docs/test-webserver
+          - listitem [ref=e104]:
+            - button "Guides" [expanded] [ref=e106] [cursor=pointer]
+            - list [ref=e107]:
+              - listitem [ref=e108]:
+                - link "Library" [ref=e109] [cursor=pointer]:
+                  - /url: /docs/library
+              - listitem [ref=e110]:
+                - link "Accessibility testing" [ref=e111] [cursor=pointer]:
+                  - /url: /docs/accessibility-testing
+              - listitem [ref=e112]:
+                - link "Actions" [ref=e113] [cursor=pointer]:
+                  - /url: /docs/input
+              - listitem [ref=e114]:
+                - link "Assertions" [ref=e115] [cursor=pointer]:
+                  - /url: /docs/test-assertions
+              - listitem [ref=e116]:
+                - link "API testing" [ref=e117] [cursor=pointer]:
+                  - /url: /docs/api-testing
+              - listitem [ref=e118]:
+                - link "Authentication" [ref=e119] [cursor=pointer]:
+                  - /url: /docs/auth
+              - listitem [ref=e120]:
+                - link "Auto-waiting" [ref=e121] [cursor=pointer]:
+                  - /url: /docs/actionability
+              - listitem [ref=e122]:
+                - link "Best Practices" [ref=e123] [cursor=pointer]:
+                  - /url: /docs/best-practices
+              - listitem [ref=e124]:
+                - link "Browsers" [ref=e125] [cursor=pointer]:
+                  - /url: /docs/browsers
+              - listitem [ref=e126]:
+                - link "Chrome extensions" [ref=e127] [cursor=pointer]:
+                  - /url: /docs/chrome-extensions
+              - listitem [ref=e128]:
+                - link "Clock" [ref=e129] [cursor=pointer]:
+                  - /url: /docs/clock
+              - listitem [ref=e130]:
+                - link "Components (experimental)" [ref=e131] [cursor=pointer]:
+                  - /url: /docs/test-components
+              - listitem [ref=e132]:
+                - link "Debugging Tests" [ref=e133] [cursor=pointer]:
+                  - /url: /docs/debug
+              - listitem [ref=e134]:
+                - link "Dialogs" [ref=e135] [cursor=pointer]:
+                  - /url: /docs/dialogs
+              - listitem [ref=e136]:
+                - link "Downloads" [ref=e137] [cursor=pointer]:
+                  - /url: /docs/downloads
+              - listitem [ref=e138]:
+                - link "Evaluating JavaScript" [ref=e139] [cursor=pointer]:
+                  - /url: /docs/evaluating
+              - listitem [ref=e140]:
+                - link "Events" [ref=e141] [cursor=pointer]:
+                  - /url: /docs/events
+              - listitem [ref=e142]:
+                - link "Extensibility" [ref=e143] [cursor=pointer]:
+                  - /url: /docs/extensibility
+              - listitem [ref=e144]:
+                - link "Frames" [ref=e145] [cursor=pointer]:
+                  - /url: /docs/frames
+              - listitem [ref=e146]:
+                - link "Handles" [ref=e147] [cursor=pointer]:
+                  - /url: /docs/handles
+              - listitem [ref=e148]:
+                - link "Isolation" [ref=e149] [cursor=pointer]:
+                  - /url: /docs/browser-contexts
+              - listitem [ref=e150]:
+                - link "Locators" [ref=e151] [cursor=pointer]:
+                  - /url: /docs/locators
+              - listitem [ref=e152]:
+                - link "Mock APIs" [ref=e153] [cursor=pointer]:
+                  - /url: /docs/mock
+              - listitem [ref=e154]:
+                - link "Mock browser APIs" [ref=e155] [cursor=pointer]:
+                  - /url: /docs/mock-browser-apis
+              - listitem [ref=e156]:
+                - link "Navigations" [ref=e157] [cursor=pointer]:
+                  - /url: /docs/navigations
+              - listitem [ref=e158]:
+                - link "Network" [ref=e159] [cursor=pointer]:
+                  - /url: /docs/network
+              - listitem [ref=e160]:
+                - link "Other locators" [ref=e161] [cursor=pointer]:
+                  - /url: /docs/other-locators
+              - listitem [ref=e162]:
+                - link "Pages" [ref=e163] [cursor=pointer]:
+                  - /url: /docs/pages
+              - listitem [ref=e164]:
+                - link "Page object models" [ref=e165] [cursor=pointer]:
+                  - /url: /docs/pom
+              - listitem [ref=e166]:
+                - link "Screenshots" [ref=e167] [cursor=pointer]:
+                  - /url: /docs/screenshots
+              - listitem [ref=e168]:
+                - link "Service Workers" [ref=e169] [cursor=pointer]:
+                  - /url: /docs/service-workers
+              - listitem [ref=e170]:
+                - link "Snapshot testing" [ref=e171] [cursor=pointer]:
+                  - /url: /docs/aria-snapshots
+              - listitem [ref=e172]:
+                - link "Test generator" [ref=e173] [cursor=pointer]:
+                  - /url: /docs/codegen
+              - listitem [ref=e174]:
+                - link "Touch events (legacy)" [ref=e175] [cursor=pointer]:
+                  - /url: /docs/touch-events
+              - listitem [ref=e176]:
+                - link "Trace viewer" [ref=e177] [cursor=pointer]:
+                  - /url: /docs/trace-viewer
+              - listitem [ref=e178]:
+                - link "Videos" [ref=e179] [cursor=pointer]:
+                  - /url: /docs/videos
+              - listitem [ref=e180]:
+                - link "Visual comparisons" [ref=e181] [cursor=pointer]:
+                  - /url: /docs/test-snapshots
+              - listitem [ref=e182]:
+                - link "WebView2" [ref=e183] [cursor=pointer]:
+                  - /url: /docs/webview2
+          - listitem [ref=e184]:
+            - button "Migration" [ref=e186] [cursor=pointer]
+          - listitem [ref=e187]:
+            - button "Integrations" [ref=e189] [cursor=pointer]
+          - listitem [ref=e190]:
+            - link "Supported languages" [ref=e191] [cursor=pointer]:
+              - /url: /docs/languages
+    - main [ref=e192]:
+      - generic [ref=e194]:
+        - generic [ref=e196]:
+          - article [ref=e197]:
+            - navigation "Breadcrumbs" [ref=e198]:
+              - list [ref=e199]:
+                - listitem [ref=e200]:
+                  - link "Home page" [ref=e201] [cursor=pointer]:
+                    - /url: /
+                    - img [ref=e202]
+                - listitem [ref=e204]:
+                  - generic [ref=e205]: Guides
+                - listitem [ref=e206]:
+                  - generic [ref=e207]: Assertions
+            - generic [ref=e208]:
+              - heading "Assertions" [level=1] [ref=e210]
+              - heading "IntroductionDirect link to Introduction" [level=2] [ref=e211]:
+                - text: Introduction
+                - link "Direct link to Introduction" [ref=e212] [cursor=pointer]:
+                  - /url: "#introduction"
+                  - text: "#"
+              - paragraph [ref=e213]:
+                - text: Playwright includes test assertions in the form of
+                - code [ref=e214]: expect
+                - text: function. To make an assertion, call
+                - code [ref=e215]: expect(value)
+                - text: and choose a matcher that reflects the expectation. There are many
+                - link "generic matchers" [ref=e216] [cursor=pointer]:
+                  - /url: /docs/api/class-genericassertions
+                - text: like
+                - code [ref=e217]: toEqual
+                - text: ","
+                - code [ref=e218]: toContain
+                - text: ","
+                - code [ref=e219]: toBeTruthy
+                - text: that can be used to assert any conditions.
+              - generic [ref=e221]:
+                - code [ref=e223]:
+                  - generic [ref=e224]: expect(success).toBeTruthy();
+                - button "Copy code to clipboard" [ref=e226] [cursor=pointer]:
+                  - generic [ref=e227]:
+                    - img [ref=e228]
+                    - img [ref=e230]
+              - paragraph [ref=e232]:
+                - text: Playwright also includes web-specific
+                - link "async matchers" [ref=e233] [cursor=pointer]:
+                  - /url: /docs/api/class-locatorassertions
+                - text: "that will wait until the expected condition is met. Consider the following example:"
+              - generic [ref=e235]:
+                - code [ref=e237]:
+                  - generic [ref=e238]: await expect(page.getByTestId('status')).toHaveText('Submitted');
+                - button "Copy code to clipboard" [ref=e240] [cursor=pointer]:
+                  - generic [ref=e241]:
+                    - img [ref=e242]
+                    - img [ref=e244]
+              - paragraph [ref=e246]:
+                - text: Playwright will be re-testing the element with the test id of
+                - code [ref=e247]: status
+                - text: until the fetched element has the
+                - code [ref=e248]: "\"Submitted\""
+                - text: text. It will re-fetch the element and check it over and over, until the condition is met or until the timeout is reached. You can either pass this timeout or configure it once via the
+                - link "testConfig.expect" [ref=e249] [cursor=pointer]:
+                  - /url: /docs/api/class-testconfig#test-config-expect
+                - text: value in the test config.
+              - paragraph [ref=e250]:
+                - text: By default, the timeout for assertions is set to 5 seconds. Learn more about
+                - link "various timeouts" [ref=e251] [cursor=pointer]:
+                  - /url: /docs/test-timeouts
+                - text: .
+              - heading "Auto-retrying assertionsDirect link to Auto-retrying assertions" [level=2] [ref=e252]:
+                - text: Auto-retrying assertions
+                - link "Direct link to Auto-retrying assertions" [ref=e253] [cursor=pointer]:
+                  - /url: "#auto-retrying-assertions"
+                  - text: "#"
+              - paragraph [ref=e254]:
+                - text: The following assertions will retry until the assertion passes, or the assertion timeout is reached. Note that retrying assertions are async, so you must
+                - code [ref=e255]: await
+                - text: them.
+              - table [ref=e256]:
+                - rowgroup [ref=e257]:
+                  - row "Assertion Description" [ref=e258]:
+                    - columnheader "Assertion" [ref=e259]
+                    - columnheader "Description" [ref=e260]
+                - rowgroup [ref=e261]:
+                  - row "await expect(locator).toBeAttached() Element is attached" [ref=e262]:
+                    - cell "await expect(locator).toBeAttached()" [ref=e263]:
+                      - link "await expect(locator).toBeAttached()" [ref=e264] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-attached
+                    - cell "Element is attached" [ref=e265]
+                  - row "await expect(locator).toBeChecked() Checkbox is checked" [ref=e266]:
+                    - cell "await expect(locator).toBeChecked()" [ref=e267]:
+                      - link "await expect(locator).toBeChecked()" [ref=e268] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-checked
+                    - cell "Checkbox is checked" [ref=e269]
+                  - row "await expect(locator).toBeDisabled() Element is disabled" [ref=e270]:
+                    - cell "await expect(locator).toBeDisabled()" [ref=e271]:
+                      - link "await expect(locator).toBeDisabled()" [ref=e272] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-disabled
+                    - cell "Element is disabled" [ref=e273]
+                  - row "await expect(locator).toBeEditable() Element is editable" [ref=e274]:
+                    - cell "await expect(locator).toBeEditable()" [ref=e275]:
+                      - link "await expect(locator).toBeEditable()" [ref=e276] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-editable
+                    - cell "Element is editable" [ref=e277]
+                  - row "await expect(locator).toBeEmpty() Container is empty" [ref=e278]:
+                    - cell "await expect(locator).toBeEmpty()" [ref=e279]:
+                      - link "await expect(locator).toBeEmpty()" [ref=e280] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-empty
+                    - cell "Container is empty" [ref=e281]
+                  - row "await expect(locator).toBeEnabled() Element is enabled" [ref=e282]:
+                    - cell "await expect(locator).toBeEnabled()" [ref=e283]:
+                      - link "await expect(locator).toBeEnabled()" [ref=e284] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-enabled
+                    - cell "Element is enabled" [ref=e285]
+                  - row "await expect(locator).toBeFocused() Element is focused" [ref=e286]:
+                    - cell "await expect(locator).toBeFocused()" [ref=e287]:
+                      - link "await expect(locator).toBeFocused()" [ref=e288] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-focused
+                    - cell "Element is focused" [ref=e289]
+                  - row "await expect(locator).toBeHidden() Element is not visible" [ref=e290]:
+                    - cell "await expect(locator).toBeHidden()" [ref=e291]:
+                      - link "await expect(locator).toBeHidden()" [ref=e292] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-hidden
+                    - cell "Element is not visible" [ref=e293]
+                  - row "await expect(locator).toBeInViewport() Element intersects viewport" [ref=e294]:
+                    - cell "await expect(locator).toBeInViewport()" [ref=e295]:
+                      - link "await expect(locator).toBeInViewport()" [ref=e296] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-in-viewport
+                    - cell "Element intersects viewport" [ref=e297]
+                  - row "await expect(locator).toBeVisible() Element is visible" [ref=e298]:
+                    - cell "await expect(locator).toBeVisible()" [ref=e299]:
+                      - link "await expect(locator).toBeVisible()" [ref=e300] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-be-visible
+                    - cell "Element is visible" [ref=e301]
+                  - row "await expect(locator).toContainText() Element contains text" [ref=e302]:
+                    - cell "await expect(locator).toContainText()" [ref=e303]:
+                      - link "await expect(locator).toContainText()" [ref=e304] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-contain-text
+                    - cell "Element contains text" [ref=e305]
+                  - row "await expect(locator).toContainClass() Element has specified CSS classes" [ref=e306]:
+                    - cell "await expect(locator).toContainClass()" [ref=e307]:
+                      - link "await expect(locator).toContainClass()" [ref=e308] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-contain-class
+                    - cell "Element has specified CSS classes" [ref=e309]
+                  - row "await expect(locator).toHaveAccessibleDescription() Element has a matching accessible description" [ref=e310]:
+                    - cell "await expect(locator).toHaveAccessibleDescription()" [ref=e311]:
+                      - link "await expect(locator).toHaveAccessibleDescription()" [ref=e312] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-accessible-description
+                    - cell "Element has a matching accessible description" [ref=e313]:
+                      - text: Element has a matching
+                      - link "accessible description" [ref=e314] [cursor=pointer]:
+                        - /url: https://w3c.github.io/accname/#dfn-accessible-description
+                  - row "await expect(locator).toHaveAccessibleName() Element has a matching accessible name" [ref=e315]:
+                    - cell "await expect(locator).toHaveAccessibleName()" [ref=e316]:
+                      - link "await expect(locator).toHaveAccessibleName()" [ref=e317] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-accessible-name
+                    - cell "Element has a matching accessible name" [ref=e318]:
+                      - text: Element has a matching
+                      - link "accessible name" [ref=e319] [cursor=pointer]:
+                        - /url: https://w3c.github.io/accname/#dfn-accessible-name
+                  - row "await expect(locator).toHaveAttribute() Element has a DOM attribute" [ref=e320]:
+                    - cell "await expect(locator).toHaveAttribute()" [ref=e321]:
+                      - link "await expect(locator).toHaveAttribute()" [ref=e322] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-attribute
+                    - cell "Element has a DOM attribute" [ref=e323]
+                  - row "await expect(locator).toHaveClass() Element has specified CSS class property" [ref=e324]:
+                    - cell "await expect(locator).toHaveClass()" [ref=e325]:
+                      - link "await expect(locator).toHaveClass()" [ref=e326] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-class
+                    - cell "Element has specified CSS class property" [ref=e327]
+                  - row "await expect(locator).toHaveCount() List has exact number of children" [ref=e328]:
+                    - cell "await expect(locator).toHaveCount()" [ref=e329]:
+                      - link "await expect(locator).toHaveCount()" [ref=e330] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-count
+                    - cell "List has exact number of children" [ref=e331]
+                  - row "await expect(locator).toHaveCSS() Element has CSS property" [ref=e332]:
+                    - cell "await expect(locator).toHaveCSS()" [ref=e333]:
+                      - link "await expect(locator).toHaveCSS()" [ref=e334] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-css
+                    - cell "Element has CSS property" [ref=e335]
+                  - row "await expect(locator).toHaveId() Element has an ID" [ref=e336]:
+                    - cell "await expect(locator).toHaveId()" [ref=e337]:
+                      - link "await expect(locator).toHaveId()" [ref=e338] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-id
+                    - cell "Element has an ID" [ref=e339]
+                  - row "await expect(locator).toHaveJSProperty() Element has a JavaScript property" [ref=e340]:
+                    - cell "await expect(locator).toHaveJSProperty()" [ref=e341]:
+                      - link "await expect(locator).toHaveJSProperty()" [ref=e342] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-js-property
+                    - cell "Element has a JavaScript property" [ref=e343]
+                  - row "await expect(locator).toHaveRole() Element has a specific ARIA role" [ref=e344]:
+                    - cell "await expect(locator).toHaveRole()" [ref=e345]:
+                      - link "await expect(locator).toHaveRole()" [ref=e346] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-role
+                    - cell "Element has a specific ARIA role" [ref=e347]:
+                      - text: Element has a specific
+                      - link "ARIA role" [ref=e348] [cursor=pointer]:
+                        - /url: https://www.w3.org/TR/wai-aria-1.2/#roles
+                  - row "await expect(locator).toHaveScreenshot() Element has a screenshot" [ref=e349]:
+                    - cell "await expect(locator).toHaveScreenshot()" [ref=e350]:
+                      - link "await expect(locator).toHaveScreenshot()" [ref=e351] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-screenshot-1
+                    - cell "Element has a screenshot" [ref=e352]
+                  - row "await expect(locator).toHaveText() Element matches text" [ref=e353]:
+                    - cell "await expect(locator).toHaveText()" [ref=e354]:
+                      - link "await expect(locator).toHaveText()" [ref=e355] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-text
+                    - cell "Element matches text" [ref=e356]
+                  - row "await expect(locator).toHaveValue() Input has a value" [ref=e357]:
+                    - cell "await expect(locator).toHaveValue()" [ref=e358]:
+                      - link "await expect(locator).toHaveValue()" [ref=e359] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-value
+                    - cell "Input has a value" [ref=e360]
+                  - row "await expect(locator).toHaveValues() Select has options selected" [ref=e361]:
+                    - cell "await expect(locator).toHaveValues()" [ref=e362]:
+                      - link "await expect(locator).toHaveValues()" [ref=e363] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-have-values
+                    - cell "Select has options selected" [ref=e364]
+                  - row "await expect(locator).toMatchAriaSnapshot() Element matches the Aria snapshot" [ref=e365]:
+                    - cell "await expect(locator).toMatchAriaSnapshot()" [ref=e366]:
+                      - link "await expect(locator).toMatchAriaSnapshot()" [ref=e367] [cursor=pointer]:
+                        - /url: /docs/api/class-locatorassertions#locator-assertions-to-match-aria-snapshot
+                    - cell "Element matches the Aria snapshot" [ref=e368]
+                  - row "await expect(page).toHaveScreenshot() Page has a screenshot" [ref=e369]:
+                    - cell "await expect(page).toHaveScreenshot()" [ref=e370]:
+                      - link "await expect(page).toHaveScreenshot()" [ref=e371] [cursor=pointer]:
+                        - /url: /docs/api/class-pageassertions#page-assertions-to-have-screenshot-1
+                    - cell "Page has a screenshot" [ref=e372]
+                  - row "await expect(page).toHaveTitle() Page has a title" [ref=e373]:
+                    - cell "await expect(page).toHaveTitle()" [ref=e374]:
+                      - link "await expect(page).toHaveTitle()" [ref=e375] [cursor=pointer]:
+                        - /url: /docs/api/class-pageassertions#page-assertions-to-have-title
+                    - cell "Page has a title" [ref=e376]
+                  - row "await expect(page).toHaveURL() Page has a URL" [ref=e377]:
+                    - cell "await expect(page).toHaveURL()" [ref=e378]:
+                      - link "await expect(page).toHaveURL()" [ref=e379] [cursor=pointer]:
+                        - /url: /docs/api/class-pageassertions#page-assertions-to-have-url
+                    - cell "Page has a URL" [ref=e380]
+                  - row "await expect(response).toBeOK() Response has an OK status" [ref=e381]:
+                    - cell "await expect(response).toBeOK()" [ref=e382]:
+                      - link "await expect(response).toBeOK()" [ref=e383] [cursor=pointer]:
+                        - /url: /docs/api/class-apiresponseassertions#api-response-assertions-to-be-ok
+                    - cell "Response has an OK status" [ref=e384]
+              - heading "Non-retrying assertionsDirect link to Non-retrying assertions" [level=2] [ref=e385]:
+                - text: Non-retrying assertions
+                - link "Direct link to Non-retrying assertions" [ref=e386] [cursor=pointer]:
+                  - /url: "#non-retrying-assertions"
+                  - text: "#"
+              - paragraph [ref=e387]: These assertions allow to test any conditions, but do not auto-retry. Most of the time, web pages show information asynchronously, and using non-retrying assertions can lead to a flaky test.
+              - paragraph [ref=e388]:
+                - text: Prefer
+                - link "auto-retrying" [ref=e389] [cursor=pointer]:
+                  - /url: "#auto-retrying-assertions"
+                - text: assertions whenever possible. For more complex assertions that need to be retried, use
+                - link "expect.poll" [ref=e390] [cursor=pointer]:
+                  - /url: "#expectpoll"
+                  - code [ref=e391]: expect.poll
+                - text: or
+                - link "expect.toPass" [ref=e392] [cursor=pointer]:
+                  - /url: "#expecttopass"
+                  - code [ref=e393]: expect.toPass
+                - text: .
+              - table [ref=e394]:
+                - rowgroup [ref=e395]:
+                  - row "Assertion Description" [ref=e396]:
+                    - columnheader "Assertion" [ref=e397]
+                    - columnheader "Description" [ref=e398]
+                - rowgroup [ref=e399]:
+                  - row "expect(value).toBe() Value is the same" [ref=e400]:
+                    - cell "expect(value).toBe()" [ref=e401]:
+                      - link "expect(value).toBe()" [ref=e402] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be
+                    - cell "Value is the same" [ref=e403]
+                  - row "expect(value).toBeCloseTo() Number is approximately equal" [ref=e404]:
+                    - cell "expect(value).toBeCloseTo()" [ref=e405]:
+                      - link "expect(value).toBeCloseTo()" [ref=e406] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-close-to
+                    - cell "Number is approximately equal" [ref=e407]
+                  - row "expect(value).toBeDefined() Value is not undefined" [ref=e408]:
+                    - cell "expect(value).toBeDefined()" [ref=e409]:
+                      - link "expect(value).toBeDefined()" [ref=e410] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-defined
+                    - cell "Value is not undefined" [ref=e411]:
+                      - text: Value is not
+                      - code [ref=e412]: undefined
+                  - row "expect(value).toBeFalsy() Value is falsy, e.g. false, 0, null, etc." [ref=e413]:
+                    - cell "expect(value).toBeFalsy()" [ref=e414]:
+                      - link "expect(value).toBeFalsy()" [ref=e415] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-falsy
+                    - cell "Value is falsy, e.g. false, 0, null, etc." [ref=e416]:
+                      - text: Value is falsy, e.g.
+                      - code [ref=e417]: "false"
+                      - text: ","
+                      - code [ref=e418]: "0"
+                      - text: ","
+                      - code [ref=e419]: "null"
+                      - text: ", etc."
+                  - row "expect(value).toBeGreaterThan() Number is more than" [ref=e420]:
+                    - cell "expect(value).toBeGreaterThan()" [ref=e421]:
+                      - link "expect(value).toBeGreaterThan()" [ref=e422] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-greater-than
+                    - cell "Number is more than" [ref=e423]
+                  - row "expect(value).toBeGreaterThanOrEqual() Number is more than or equal" [ref=e424]:
+                    - cell "expect(value).toBeGreaterThanOrEqual()" [ref=e425]:
+                      - link "expect(value).toBeGreaterThanOrEqual()" [ref=e426] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-greater-than-or-equal
+                    - cell "Number is more than or equal" [ref=e427]
+                  - row "expect(value).toBeInstanceOf() Object is an instance of a class" [ref=e428]:
+                    - cell "expect(value).toBeInstanceOf()" [ref=e429]:
+                      - link "expect(value).toBeInstanceOf()" [ref=e430] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-instance-of
+                    - cell "Object is an instance of a class" [ref=e431]
+                  - row "expect(value).toBeLessThan() Number is less than" [ref=e432]:
+                    - cell "expect(value).toBeLessThan()" [ref=e433]:
+                      - link "expect(value).toBeLessThan()" [ref=e434] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-less-than
+                    - cell "Number is less than" [ref=e435]
+                  - row "expect(value).toBeLessThanOrEqual() Number is less than or equal" [ref=e436]:
+                    - cell "expect(value).toBeLessThanOrEqual()" [ref=e437]:
+                      - link "expect(value).toBeLessThanOrEqual()" [ref=e438] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-less-than-or-equal
+                    - cell "Number is less than or equal" [ref=e439]
+                  - row "expect(value).toBeNaN() Value is NaN" [ref=e440]:
+                    - cell "expect(value).toBeNaN()" [ref=e441]:
+                      - link "expect(value).toBeNaN()" [ref=e442] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-na-n
+                    - cell "Value is NaN" [ref=e443]:
+                      - text: Value is
+                      - code [ref=e444]: NaN
+                  - row "expect(value).toBeNull() Value is null" [ref=e445]:
+                    - cell "expect(value).toBeNull()" [ref=e446]:
+                      - link "expect(value).toBeNull()" [ref=e447] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-null
+                    - cell "Value is null" [ref=e448]:
+                      - text: Value is
+                      - code [ref=e449]: "null"
+                  - row "expect(value).toBeTruthy() Value is truthy, i.e. not false, 0, null, etc." [ref=e450]:
+                    - cell "expect(value).toBeTruthy()" [ref=e451]:
+                      - link "expect(value).toBeTruthy()" [ref=e452] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-truthy
+                    - cell "Value is truthy, i.e. not false, 0, null, etc." [ref=e453]:
+                      - text: Value is truthy, i.e. not
+                      - code [ref=e454]: "false"
+                      - text: ","
+                      - code [ref=e455]: "0"
+                      - text: ","
+                      - code [ref=e456]: "null"
+                      - text: ", etc."
+                  - row "expect(value).toBeUndefined() Value is undefined" [ref=e457]:
+                    - cell "expect(value).toBeUndefined()" [ref=e458]:
+                      - link "expect(value).toBeUndefined()" [ref=e459] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-be-undefined
+                    - cell "Value is undefined" [ref=e460]:
+                      - text: Value is
+                      - code [ref=e461]: undefined
+                  - row "expect(value).toContain() String contains a substring" [ref=e462]:
+                    - cell "expect(value).toContain()" [ref=e463]:
+                      - link "expect(value).toContain()" [ref=e464] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-contain-1
+                    - cell "String contains a substring" [ref=e465]
+                  - row "expect(value).toContain() Array or set contains an element" [ref=e466]:
+                    - cell "expect(value).toContain()" [ref=e467]:
+                      - link "expect(value).toContain()" [ref=e468] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-contain-2
+                    - cell "Array or set contains an element" [ref=e469]
+                  - row "expect(value).toContainEqual() Array or set contains a similar element" [ref=e470]:
+                    - cell "expect(value).toContainEqual()" [ref=e471]:
+                      - link "expect(value).toContainEqual()" [ref=e472] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-contain-equal
+                    - cell "Array or set contains a similar element" [ref=e473]
+                  - row "expect(value).toEqual() Value is similar - deep equality and pattern matching" [ref=e474]:
+                    - cell "expect(value).toEqual()" [ref=e475]:
+                      - link "expect(value).toEqual()" [ref=e476] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-equal
+                    - cell "Value is similar - deep equality and pattern matching" [ref=e477]
+                  - row "expect(value).toHaveLength() Array or string has length" [ref=e478]:
+                    - cell "expect(value).toHaveLength()" [ref=e479]:
+                      - link "expect(value).toHaveLength()" [ref=e480] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-have-length
+                    - cell "Array or string has length" [ref=e481]
+                  - row "expect(value).toHaveProperty() Object has a property" [ref=e482]:
+                    - cell "expect(value).toHaveProperty()" [ref=e483]:
+                      - link "expect(value).toHaveProperty()" [ref=e484] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-have-property
+                    - cell "Object has a property" [ref=e485]
+                  - row "expect(value).toMatch() String matches a regular expression" [ref=e486]:
+                    - cell "expect(value).toMatch()" [ref=e487]:
+                      - link "expect(value).toMatch()" [ref=e488] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-match
+                    - cell "String matches a regular expression" [ref=e489]
+                  - row "expect(value).toMatchObject() Object contains specified properties" [ref=e490]:
+                    - cell "expect(value).toMatchObject()" [ref=e491]:
+                      - link "expect(value).toMatchObject()" [ref=e492] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-match-object
+                    - cell "Object contains specified properties" [ref=e493]
+                  - row "expect(value).toStrictEqual() Value is similar, including property types" [ref=e494]:
+                    - cell "expect(value).toStrictEqual()" [ref=e495]:
+                      - link "expect(value).toStrictEqual()" [ref=e496] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-strict-equal
+                    - cell "Value is similar, including property types" [ref=e497]
+                  - row "expect(value).toThrow() Function throws an error" [ref=e498]:
+                    - cell "expect(value).toThrow()" [ref=e499]:
+                      - link "expect(value).toThrow()" [ref=e500] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-to-throw
+                    - cell "Function throws an error" [ref=e501]
+              - heading "Asymmetric matchersDirect link to Asymmetric matchers" [level=2] [ref=e502]:
+                - text: Asymmetric matchers
+                - link "Direct link to Asymmetric matchers" [ref=e503] [cursor=pointer]:
+                  - /url: "#asymmetric-matchers"
+                  - text: "#"
+              - paragraph [ref=e504]: These expressions can be nested in other assertions to allow more relaxed matching against a given condition.
+              - table [ref=e505]:
+                - rowgroup [ref=e506]:
+                  - row "Matcher Description" [ref=e507]:
+                    - columnheader "Matcher" [ref=e508]
+                    - columnheader "Description" [ref=e509]
+                - rowgroup [ref=e510]:
+                  - row "expect.any() Matches any instance of a class/primitive" [ref=e511]:
+                    - cell "expect.any()" [ref=e512]:
+                      - link "expect.any()" [ref=e513] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-any
+                    - cell "Matches any instance of a class/primitive" [ref=e514]
+                  - row "expect.anything() Matches anything" [ref=e515]:
+                    - cell "expect.anything()" [ref=e516]:
+                      - link "expect.anything()" [ref=e517] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-anything
+                    - cell "Matches anything" [ref=e518]
+                  - row "expect.arrayContaining() Array contains specific elements" [ref=e519]:
+                    - cell "expect.arrayContaining()" [ref=e520]:
+                      - link "expect.arrayContaining()" [ref=e521] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-array-containing
+                    - cell "Array contains specific elements" [ref=e522]
+                  - row "expect.arrayOf() Array contains elements of specific type" [ref=e523]:
+                    - cell "expect.arrayOf()" [ref=e524]:
+                      - link "expect.arrayOf()" [ref=e525] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-array-of
+                    - cell "Array contains elements of specific type" [ref=e526]
+                  - row "expect.closeTo() Number is approximately equal" [ref=e527]:
+                    - cell "expect.closeTo()" [ref=e528]:
+                      - link "expect.closeTo()" [ref=e529] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-close-to
+                    - cell "Number is approximately equal" [ref=e530]
+                  - row "expect.objectContaining() Object contains specific properties" [ref=e531]:
+                    - cell "expect.objectContaining()" [ref=e532]:
+                      - link "expect.objectContaining()" [ref=e533] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-object-containing
+                    - cell "Object contains specific properties" [ref=e534]
+                  - row "expect.stringContaining() String contains a substring" [ref=e535]:
+                    - cell "expect.stringContaining()" [ref=e536]:
+                      - link "expect.stringContaining()" [ref=e537] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-string-containing
+                    - cell "String contains a substring" [ref=e538]
+                  - row "expect.stringMatching() String matches a regular expression" [ref=e539]:
+                    - cell "expect.stringMatching()" [ref=e540]:
+                      - link "expect.stringMatching()" [ref=e541] [cursor=pointer]:
+                        - /url: /docs/api/class-genericassertions#generic-assertions-string-matching
+                    - cell "String matches a regular expression" [ref=e542]
+              - heading "Negating matchersDirect link to Negating matchers" [level=2] [ref=e543]:
+                - text: Negating matchers
+                - link "Direct link to Negating matchers" [ref=e544] [cursor=pointer]:
+                  - /url: "#negating-matchers"
+                  - text: "#"
+              - paragraph [ref=e545]:
+                - text: In general, we can expect the opposite to be true by adding a
+                - code [ref=e546]: .not
+                - text: "to the front of the matchers:"
+              - generic [ref=e548]:
+                - code [ref=e550]:
+                  - generic [ref=e551]: expect(value).not.toEqual(0);
+                  - generic [ref=e552]: await expect(locator).not.toContainText('some text');
+                - button "Copy code to clipboard" [ref=e554] [cursor=pointer]:
+                  - generic [ref=e555]:
+                    - img [ref=e556]
+                    - img [ref=e558]
+              - heading "Soft assertionsDirect link to Soft assertions" [level=2] [ref=e560]:
+                - text: Soft assertions
+                - link "Direct link to Soft assertions" [ref=e561] [cursor=pointer]:
+                  - /url: "#soft-assertions"
+                  - text: "#"
+              - paragraph [ref=e562]:
+                - text: By default, failed assertion will terminate test execution. Playwright also supports
+                - emphasis [ref=e563]: soft assertions
+                - text: ": failed soft assertions"
+                - strong [ref=e564]: do not
+                - text: terminate test execution, but mark the test as failed.
+              - generic [ref=e566]:
+                - code [ref=e568]:
+                  - generic [ref=e569]: // Make a few checks that will not stop the test when failed...
+                  - generic [ref=e570]: await expect.soft(page.getByTestId('status')).toHaveText('Success');
+                  - generic [ref=e571]: await expect.soft(page.getByTestId('eta')).toHaveText('1 day');
+                  - generic [ref=e572]: // ... and continue the test to check more things.
+                  - generic [ref=e573]: "await page.getByRole('link', { name: 'next page' }).click();"
+                  - generic [ref=e574]: "await expect.soft(page.getByRole('heading', { name: 'Make another order' })).toBeVisible();"
+                - button "Copy code to clipboard" [ref=e576] [cursor=pointer]:
+                  - generic [ref=e577]:
+                    - img [ref=e578]
+                    - img [ref=e580]
+              - paragraph [ref=e582]: "At any point during test execution, you can check whether there were any soft assertion failures:"
+              - generic [ref=e584]:
+                - code [ref=e586]:
+                  - generic [ref=e587]: // Make a few checks that will not stop the test when failed...
+                  - generic [ref=e588]: await expect.soft(page.getByTestId('status')).toHaveText('Success');
+                  - generic [ref=e589]: await expect.soft(page.getByTestId('eta')).toHaveText('1 day');
+                  - generic [ref=e590]: // Avoid running further if there were soft assertion failures.
+                  - generic [ref=e591]: expect(test.info().errors).toHaveLength(0);
+                - button "Copy code to clipboard" [ref=e593] [cursor=pointer]:
+                  - generic [ref=e594]:
+                    - img [ref=e595]
+                    - img [ref=e597]
+              - paragraph [ref=e599]: Note that soft assertions only work with Playwright test runner.
+              - heading "Custom expect messageDirect link to Custom expect message" [level=2] [ref=e600]:
+                - text: Custom expect message
+                - link "Direct link to Custom expect message" [ref=e601] [cursor=pointer]:
+                  - /url: "#custom-expect-message"
+                  - text: "#"
+              - paragraph [ref=e602]:
+                - text: You can specify a custom expect message as a second argument to the
+                - code [ref=e603]: expect
+                - text: "function, for example:"
+              - generic [ref=e605]:
+                - code [ref=e607]:
+                  - generic [ref=e608]: await expect(page.getByText('Name'), 'should be logged in').toBeVisible();
+                - button "Copy code to clipboard" [ref=e610] [cursor=pointer]:
+                  - generic [ref=e611]:
+                    - img [ref=e612]
+                    - img [ref=e614]
+              - paragraph [ref=e616]: This message will be shown in reporters, both for passing and failing expects, providing more context about the assertion.
+              - paragraph [ref=e617]: "When expect passes, you might see a successful step like this:"
+              - generic [ref=e619]:
+                - code [ref=e621]:
+                  - generic [ref=e622]: ✅ should be logged in @example.spec.ts:18
+                - button "Copy code to clipboard" [ref=e624] [cursor=pointer]:
+                  - generic [ref=e625]:
+                    - img [ref=e626]
+                    - img [ref=e628]
+              - paragraph [ref=e630]: "When expect fails, the error would look like this:"
+              - generic [ref=e632]:
+                - code [ref=e634]:
+                  - generic [ref=e635]: "Error: should be logged in"
+                  - generic [ref=e636]: "Call log:"
+                  - generic [ref=e637]: "- expect.toBeVisible with timeout 5000ms"
+                  - generic [ref=e638]: "- waiting for \"getByText('Name')\""
+                  - generic [ref=e639]: 2 |
+                  - generic [ref=e640]: "3 | test('example test', async({ page }) => {"
+                  - generic [ref=e641]: "> 4 | await expect(page.getByText('Name'), 'should be logged in').toBeVisible();"
+                  - generic [ref=e642]: "| ^"
+                  - generic [ref=e643]: "5 | });"
+                  - generic [ref=e644]: 6 |
+                - button "Copy code to clipboard" [ref=e646] [cursor=pointer]:
+                  - generic [ref=e647]:
+                    - img [ref=e648]
+                    - img [ref=e650]
+              - paragraph [ref=e652]: "Soft assertions also support custom message:"
+              - generic [ref=e654]:
+                - code [ref=e656]:
+                  - generic [ref=e657]: expect.soft(value, 'my soft assertion').toBe(56);
+                - button "Copy code to clipboard" [ref=e659] [cursor=pointer]:
+                  - generic [ref=e660]:
+                    - img [ref=e661]
+                    - img [ref=e663]
+              - heading "expect.configureDirect link to expect.configure" [level=2] [ref=e665]:
+                - text: expect.configure
+                - link "Direct link to expect.configure" [ref=e666] [cursor=pointer]:
+                  - /url: "#expectconfigure"
+                  - text: "#"
+              - paragraph [ref=e667]:
+                - text: You can create your own pre-configured
+                - code [ref=e668]: expect
+                - text: instance to have its own defaults such as
+                - code [ref=e669]: timeout
+                - text: and
+                - code [ref=e670]: soft
+                - text: .
+              - generic [ref=e672]:
+                - code [ref=e674]:
+                  - generic [ref=e675]: "const slowExpect = expect.configure({ timeout: 10000 });"
+                  - generic [ref=e676]: await slowExpect(locator).toHaveText('Submit');
+                  - generic [ref=e677]: // Always do soft assertions.
+                  - generic [ref=e678]: "const softExpect = expect.configure({ soft: true });"
+                  - generic [ref=e679]: await softExpect(locator).toHaveText('Submit');
+                - button "Copy code to clipboard" [ref=e681] [cursor=pointer]:
+                  - generic [ref=e682]:
+                    - img [ref=e683]
+                    - img [ref=e685]
+              - heading "expect.pollDirect link to expect.poll" [level=2] [ref=e687]:
+                - text: expect.poll
+                - link "Direct link to expect.poll" [ref=e688] [cursor=pointer]:
+                  - /url: "#expectpoll"
+                  - text: "#"
+              - paragraph [ref=e689]:
+                - text: You can convert any synchronous
+                - code [ref=e690]: expect
+                - text: to an asynchronous polling one using
+                - code [ref=e691]: expect.poll
+                - text: .
+              - paragraph [ref=e692]: "The following method will poll given function until it returns HTTP status 200:"
+              - generic [ref=e694]:
+                - code [ref=e696]:
+                  - generic [ref=e697]: "await expect.poll(async () => {"
+                  - generic [ref=e698]: const response = await page.request.get('https://api.example.com');
+                  - generic [ref=e699]: return response.status();
+                  - generic [ref=e700]: "}, {"
+                  - generic [ref=e701]: // Custom expect message for reporting, optional.
+                  - generic [ref=e702]: "message: 'make sure API eventually succeeds',"
+                  - generic [ref=e703]: // Poll for 10 seconds; defaults to 5 seconds. Pass 0 to disable timeout.
+                  - generic [ref=e704]: "timeout: 10000,"
+                  - generic [ref=e705]: "}).toBe(200);"
+                - button "Copy code to clipboard" [ref=e707] [cursor=pointer]:
+                  - generic [ref=e708]:
+                    - img [ref=e709]
+                    - img [ref=e711]
+              - paragraph [ref=e713]: "You can also specify custom polling intervals:"
+              - generic [ref=e715]:
+                - code [ref=e717]:
+                  - generic [ref=e718]: "await expect.poll(async () => {"
+                  - generic [ref=e719]: const response = await page.request.get('https://api.example.com');
+                  - generic [ref=e720]: return response.status();
+                  - generic [ref=e721]: "}, {"
+                  - generic [ref=e722]: // Probe, wait 1s, probe, wait 2s, probe, wait 10s, probe, wait 10s, probe
+                  - generic [ref=e723]: // ... Defaults to [100, 250, 500, 1000].
+                  - generic [ref=e724]: "intervals: [1_000, 2_000, 10_000],"
+                  - generic [ref=e725]: "timeout: 60_000"
+                  - generic [ref=e726]: "}).toBe(200);"
+                - button "Copy code to clipboard" [ref=e728] [cursor=pointer]:
+                  - generic [ref=e729]:
+                    - img [ref=e730]
+                    - img [ref=e732]
+              - paragraph [ref=e734]:
+                - text: You can combine
+                - code [ref=e735]: "expect.configure({ soft: true })"
+                - text: with expect.poll to perform soft assertions in polling logic.
+              - generic [ref=e737]:
+                - code [ref=e739]:
+                  - generic [ref=e740]: "const softExpect = expect.configure({ soft: true });"
+                  - generic [ref=e741]: "await softExpect.poll(async () => {"
+                  - generic [ref=e742]: const response = await page.request.get('https://api.example.com');
+                  - generic [ref=e743]: return response.status();
+                  - generic [ref=e744]: "}, {}).toBe(200);"
+                - button "Copy code to clipboard" [ref=e746] [cursor=pointer]:
+                  - generic [ref=e747]:
+                    - img [ref=e748]
+                    - img [ref=e750]
+              - paragraph [ref=e752]: This allows the test to continue even if the assertion inside poll fails.
+              - heading "expect.toPassDirect link to expect.toPass" [level=2] [ref=e753]:
+                - text: expect.toPass
+                - link "Direct link to expect.toPass" [ref=e754] [cursor=pointer]:
+                  - /url: "#expecttopass"
+                  - text: "#"
+              - paragraph [ref=e755]: You can retry blocks of code until they are passing successfully.
+              - generic [ref=e757]:
+                - code [ref=e759]:
+                  - generic [ref=e760]: "await expect(async () => {"
+                  - generic [ref=e761]: const response = await page.request.get('https://api.example.com');
+                  - generic [ref=e762]: expect(response.status()).toBe(200);
+                  - generic [ref=e763]: "}).toPass();"
+                - button "Copy code to clipboard" [ref=e765] [cursor=pointer]:
+                  - generic [ref=e766]:
+                    - img [ref=e767]
+                    - img [ref=e769]
+              - paragraph [ref=e771]: "You can also specify custom timeout and retry intervals:"
+              - generic [ref=e773]:
+                - code [ref=e775]:
+                  - generic [ref=e776]: "await expect(async () => {"
+                  - generic [ref=e777]: const response = await page.request.get('https://api.example.com');
+                  - generic [ref=e778]: expect(response.status()).toBe(200);
+                  - generic [ref=e779]: "}).toPass({"
+                  - generic [ref=e780]: // Probe, wait 1s, probe, wait 2s, probe, wait 10s, probe, wait 10s, probe
+                  - generic [ref=e781]: // ... Defaults to [100, 250, 500, 1000].
+                  - generic [ref=e782]: "intervals: [1_000, 2_000, 10_000],"
+                  - generic [ref=e783]: "timeout: 60_000"
+                  - generic [ref=e784]: "});"
+                - button "Copy code to clipboard" [ref=e786] [cursor=pointer]:
+                  - generic [ref=e787]:
+                    - img [ref=e788]
+                    - img [ref=e790]
+              - paragraph [ref=e792]:
+                - text: Note that by default
+                - code [ref=e793]: toPass
+                - text: has timeout 0 and does not respect custom
+                - link "expect timeout" [ref=e794] [cursor=pointer]:
+                  - /url: /docs/test-timeouts#expect-timeout
+                - text: .
+              - heading "Add custom matchers using expect.extendDirect link to Add custom matchers using expect.extend" [level=2] [ref=e795]:
+                - text: Add custom matchers using expect.extend
+                - link "Direct link to Add custom matchers using expect.extend" [ref=e796] [cursor=pointer]:
+                  - /url: "#add-custom-matchers-using-expectextend"
+                  - text: "#"
+              - paragraph [ref=e797]:
+                - text: You can extend Playwright assertions by providing custom matchers. These matchers will be available on the
+                - code [ref=e798]: expect
+                - text: object.
+              - paragraph [ref=e799]:
+                - text: In this example we add a custom
+                - code [ref=e800]: toHaveAmount
+                - text: function. Custom matcher should return a
+                - code [ref=e801]: pass
+                - text: flag indicating whether the assertion passed, and a
+                - code [ref=e802]: message
+                - text: callback that's used when the assertion fails.
+              - generic [ref=e803]:
+                - generic [ref=e804]: fixtures.ts
+                - generic [ref=e805]:
+                  - code [ref=e807]:
+                    - generic [ref=e808]: "import { expect as baseExpect } from '@playwright/test';"
+                    - generic [ref=e809]: "import type { Locator } from '@playwright/test';"
+                    - generic [ref=e810]: "export { test } from '@playwright/test';"
+                    - generic [ref=e811]: "export const expect = baseExpect.extend({"
+                    - generic [ref=e812]: "async toHaveAmount(locator: Locator, expected: number, options?: { timeout?: number }) {"
+                    - generic [ref=e813]: const assertionName = 'toHaveAmount';
+                    - generic [ref=e814]: "let pass: boolean;"
+                    - generic [ref=e815]: "let matcherResult: any;"
+                    - generic [ref=e816]: "try {"
+                    - generic [ref=e817]: "const expectation = this.isNot ? baseExpect(locator).not : baseExpect(locator);"
+                    - generic [ref=e818]: await expectation.toHaveAttribute('data-amount', String(expected), options);
+                    - generic [ref=e819]: pass = true;
+                    - generic [ref=e820]: "} catch (e: any) {"
+                    - generic [ref=e821]: matcherResult = e.matcherResult;
+                    - generic [ref=e822]: pass = false;
+                    - generic [ref=e823]: "}"
+                    - generic [ref=e824]: "if (this.isNot) {"
+                    - generic [ref=e825]: pass =!pass;
+                    - generic [ref=e826]: "}"
+                    - generic [ref=e827]: const message = pass
+                    - generic [ref=e828]: "? () => this.utils.matcherHint(assertionName, undefined, undefined, { isNot: this.isNot }) +"
+                    - generic [ref=e829]: "'\\n\\n' +"
+                    - generic [ref=e830]: "`Locator: ${locator}\\n` +"
+                    - generic [ref=e831]: "`Expected: not ${this.utils.printExpected(expected)}\\n` +"
+                    - generic [ref=e832]: "(matcherResult ? `Received: ${this.utils.printReceived(matcherResult.actual)}` : '')"
+                    - generic [ref=e833]: ": () => this.utils.matcherHint(assertionName, undefined, undefined, { isNot: this.isNot }) +"
+                    - generic [ref=e834]: "'\\n\\n' +"
+                    - generic [ref=e835]: "`Locator: ${locator}\\n` +"
+                    - generic [ref=e836]: "`Expected: ${this.utils.printExpected(expected)}\\n` +"
+                    - generic [ref=e837]: "(matcherResult ? `Received: ${this.utils.printReceived(matcherResult.actual)}` : '');"
+                    - generic [ref=e838]: "return {"
+                    - generic [ref=e839]: message,
+                    - generic [ref=e840]: pass,
+                    - generic [ref=e841]: "name: assertionName,"
+                    - generic [ref=e842]: expected,
+                    - generic [ref=e843]: "actual: matcherResult?.actual,"
+                    - generic [ref=e844]: "};"
+                    - generic [ref=e845]: "},"
+                    - generic [ref=e846]: "});"
+                  - button "Copy code to clipboard" [ref=e848] [cursor=pointer]:
+                    - generic [ref=e849]:
+                      - img [ref=e850]
+                      - img [ref=e852]
+              - paragraph [ref=e854]:
+                - text: Now we can use
+                - code [ref=e855]: toHaveAmount
+                - text: in the test.
+              - generic [ref=e856]:
+                - generic [ref=e857]: example.spec.ts
+                - generic [ref=e858]:
+                  - code [ref=e860]:
+                    - generic [ref=e861]: "import { test, expect } from './fixtures';"
+                    - generic [ref=e862]: "test('amount', async () => {"
+                    - generic [ref=e863]: await expect(page.locator('.cart')).toHaveAmount(4);
+                    - generic [ref=e864]: "});"
+                  - button "Copy code to clipboard" [ref=e866] [cursor=pointer]:
+                    - generic [ref=e867]:
+                      - img [ref=e868]
+                      - img [ref=e870]
+              - heading "Compatibility with expect libraryDirect link to Compatibility with expect library" [level=3] [ref=e872]:
+                - text: Compatibility with expect library
+                - link "Direct link to Compatibility with expect library" [ref=e873] [cursor=pointer]:
+                  - /url: "#compatibility-with-expect-library"
+                  - text: "#"
+              - generic [ref=e874]:
+                - generic [ref=e875]:
+                  - img [ref=e877]
+                  - text: note
+                - paragraph [ref=e880]:
+                  - text: Do not confuse Playwright's
+                  - code [ref=e881]: expect
+                  - text: with the
+                  - link "expect library" [ref=e882] [cursor=pointer]:
+                    - /url: https://jestjs.io/docs/expect
+                    - code [ref=e883]: expect
+                    - text: library
+                  - text: . The latter is not fully integrated with Playwright test runner, so make sure to use Playwright's own
+                  - code [ref=e884]: expect
+                  - text: .
+              - heading "Combine custom matchers from multiple modulesDirect link to Combine custom matchers from multiple modules" [level=3] [ref=e885]:
+                - text: Combine custom matchers from multiple modules
+                - link "Direct link to Combine custom matchers from multiple modules" [ref=e886] [cursor=pointer]:
+                  - /url: "#combine-custom-matchers-from-multiple-modules"
+                  - text: "#"
+              - paragraph [ref=e887]: You can combine custom matchers from multiple files or modules.
+              - generic [ref=e888]:
+                - generic [ref=e889]: fixtures.ts
+                - generic [ref=e890]:
+                  - code [ref=e892]:
+                    - generic [ref=e893]: "import { mergeTests, mergeExpects } from '@playwright/test';"
+                    - generic [ref=e894]: "import { test as dbTest, expect as dbExpect } from 'database-test-utils';"
+                    - generic [ref=e895]: "import { test as a11yTest, expect as a11yExpect } from 'a11y-test-utils';"
+                    - generic [ref=e896]: export const expect = mergeExpects(dbExpect, a11yExpect);
+                    - generic [ref=e897]: export const test = mergeTests(dbTest, a11yTest);
+                  - button "Copy code to clipboard" [ref=e899] [cursor=pointer]:
+                    - generic [ref=e900]:
+                      - img [ref=e901]
+                      - img [ref=e903]
+              - generic [ref=e905]:
+                - generic [ref=e906]: test.spec.ts
+                - generic [ref=e907]:
+                  - code [ref=e909]:
+                    - generic [ref=e910]: "import { test, expect } from './fixtures';"
+                    - generic [ref=e911]: "test('passes', async ({ database }) => {"
+                    - generic [ref=e912]: await expect(database).toHaveDatabaseUser('admin');
+                    - generic [ref=e913]: "});"
+                  - button "Copy code to clipboard" [ref=e915] [cursor=pointer]:
+                    - generic [ref=e916]:
+                      - img [ref=e917]
+                      - img [ref=e919]
+          - navigation "Docs pages" [ref=e921]:
+            - link "Previous « Actions" [ref=e922] [cursor=pointer]:
+              - /url: /docs/input
+              - generic [ref=e923]: Previous
+              - generic [ref=e924]: « Actions
+            - link "Next API testing »" [ref=e925] [cursor=pointer]:
+              - /url: /docs/api-testing
+              - generic [ref=e926]: Next
+              - generic [ref=e927]: API testing »
+        - list [ref=e930]:
+          - listitem [ref=e931]:
+            - link "Introduction" [ref=e932] [cursor=pointer]:
+              - /url: "#introduction"
+          - listitem [ref=e933]:
+            - link "Auto-retrying assertions" [ref=e934] [cursor=pointer]:
+              - /url: "#auto-retrying-assertions"
+          - listitem [ref=e935]:
+            - link "Non-retrying assertions" [ref=e936] [cursor=pointer]:
+              - /url: "#non-retrying-assertions"
+          - listitem [ref=e937]:
+            - link "Asymmetric matchers" [ref=e938] [cursor=pointer]:
+              - /url: "#asymmetric-matchers"
+          - listitem [ref=e939]:
+            - link "Negating matchers" [ref=e940] [cursor=pointer]:
+              - /url: "#negating-matchers"
+          - listitem [ref=e941]:
+            - link "Soft assertions" [ref=e942] [cursor=pointer]:
+              - /url: "#soft-assertions"
+          - listitem [ref=e943]:
+            - link "Custom expect message" [ref=e944] [cursor=pointer]:
+              - /url: "#custom-expect-message"
+          - listitem [ref=e945]:
+            - link "expect.configure" [ref=e946] [cursor=pointer]:
+              - /url: "#expectconfigure"
+          - listitem [ref=e947]:
+            - link "expect.poll" [ref=e948] [cursor=pointer]:
+              - /url: "#expectpoll"
+          - listitem [ref=e949]:
+            - link "expect.toPass" [ref=e950] [cursor=pointer]:
+              - /url: "#expecttopass"
+          - listitem [ref=e951]:
+            - link "Add custom matchers using expect.extend" [ref=e952] [cursor=pointer]:
+              - /url: "#add-custom-matchers-using-expectextend"
+            - list [ref=e953]:
+              - listitem [ref=e954]:
+                - link "Compatibility with expect library" [ref=e955] [cursor=pointer]:
+                  - /url: "#compatibility-with-expect-library"
+              - listitem [ref=e956]:
+                - link "Combine custom matchers from multiple modules" [ref=e957] [cursor=pointer]:
+                  - /url: "#combine-custom-matchers-from-multiple-modules"
+  - contentinfo [ref=e958]:
+    - generic [ref=e959]:
+      - generic [ref=e960]:
+        - generic [ref=e961]:
+          - generic [ref=e962]: Learn
+          - list [ref=e963]:
+            - listitem [ref=e964]:
+              - link "Getting started" [ref=e965] [cursor=pointer]:
+                - /url: /docs/intro
+            - listitem [ref=e966]:
+              - link "Playwright Training" [ref=e967] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/en-us/training/modules/build-with-playwright/
+                - text: Playwright Training
+                - img [ref=e968]
+            - listitem [ref=e970]:
+              - link "Learn Videos" [ref=e971] [cursor=pointer]:
+                - /url: /community/learn-videos
+            - listitem [ref=e972]:
+              - link "Feature Videos" [ref=e973] [cursor=pointer]:
+                - /url: /community/feature-videos
+        - generic [ref=e974]:
+          - generic [ref=e975]: Community
+          - list [ref=e976]:
+            - listitem [ref=e977]:
+              - link "Stack Overflow" [ref=e978] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/playwright
+                - text: Stack Overflow
+                - img [ref=e979]
+            - listitem [ref=e981]:
+              - link "Discord" [ref=e982] [cursor=pointer]:
+                - /url: https://aka.ms/playwright/discord
+                - text: Discord
+                - img [ref=e983]
+            - listitem [ref=e985]:
+              - link "Twitter" [ref=e986] [cursor=pointer]:
+                - /url: https://twitter.com/playwrightweb
+                - text: Twitter
+                - img [ref=e987]
+            - listitem [ref=e989]:
+              - link "LinkedIn" [ref=e990] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/playwrightweb
+                - text: LinkedIn
+                - img [ref=e991]
+        - generic [ref=e993]:
+          - generic [ref=e994]: More
+          - list [ref=e995]:
+            - listitem [ref=e996]:
+              - link "GitHub" [ref=e997] [cursor=pointer]:
+                - /url: https://github.com/microsoft/playwright
+                - text: GitHub
+                - img [ref=e998]
+            - listitem [ref=e1000]:
+              - link "YouTube" [ref=e1001] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg
+                - text: YouTube
+                - img [ref=e1002]
+            - listitem [ref=e1004]:
+              - link "Blog" [ref=e1005] [cursor=pointer]:
+                - /url: https://dev.to/playwright
+                - text: Blog
+                - img [ref=e1006]
+            - listitem [ref=e1008]:
+              - link "Ambassadors" [ref=e1009] [cursor=pointer]:
+                - /url: /community/ambassadors
+      - generic [ref=e1011]: Copyright © 2026 Microsoft
+```

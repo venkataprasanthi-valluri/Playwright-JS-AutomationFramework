@@ -1,0 +1,181 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "PMP Practice" [ref=e4] [cursor=pointer]:
+      - /url: https://pmp.expandtesting.com/
+    - text: "| Free PMP Certification Mock Exam Test +900 Questions & Quizzes"
+    - link "Software testing certification" [ref=e5] [cursor=pointer]:
+      - img [ref=e7]
+      - text: Software testing certification
+  - banner [ref=e10]:
+    - navigation "Main navigation" [ref=e11]:
+      - link "SUT" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e13]'
+        - text: Practice
+      - generic [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - button "Demos" [ref=e17] [cursor=pointer]
+          - listitem [ref=e18]:
+            - link "Tools" [ref=e19] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e20]:
+            - link "Tips" [ref=e21] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e22]:
+            - link "Test Cases" [ref=e23] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e24]:
+            - link "API Testing" [ref=e25] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e28] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e29]:
+    - insertion [ref=e33]:
+      - iframe [ref=e35]:
+        - generic [active] [ref=f3e1]:
+          - generic [ref=f3e6]:
+            - link [ref=f3e7] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CTPu-TXqXafr3L6qmoPwP8efIiAz91ZizhQHe_7LUvhWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSVAk_Q_nEUxVjY7cMbG8FgpqNMOfn-hUhZdn0UWItgBy4Dkx7lMEZ7udFX5lZ8mP-rZFqyvSCpK1YtIXvvBNy41sBPfYnFH-_07jxBhFE1G382BDWkcUpLGOcb1Xfi34cmdacDq9FA0Z21Ofn8eQC2tfhS7bv5TTbtn9fCb8xvNZY0yL3rgFpBB1KGh24-_Nw5hmlszau6CFzMYOXHDlPQqZorskToml8w9LJTlwbdFjAvJfXgG8808JAADp3esGN55WcWzHPirnoXxsjBV0YczEnkF8t8FLC9TkoFqxGSzmGOhaVc42XJOyFjr5_SOBcnu-OVzhzHZeqW3uFsABMjtfc7HOQWYXG0pv_QCoGcZCkc6vsJ94vABKWItMDABYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY5O7U77nmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIu9fV77nmkgMVKhOICR3xMxLB8A0CiA4J2BML0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAADy_yxBEgo0OTcwMjEyMjIxGAGyGAkSArFfGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE&num=1&cid=CAQSsgEA56J1eQQXju_viX_HCM8Jt4FX-SgxmPPCOAx-euIFts9WnMFl2asl3h-ifrkKO5ihsmdyylxTzHNvePWNeXls9fEcFWUdd3eUpQIKkyS52jeI1dkauPjPXhqRybFvXj0hYL0jg71z_6XNlSApvK8YmP2wyxfnI1NEnv3uL0iYM5es-fyAoj5S3rEEpMTOAbbCp3aAukX5L4eKPGfSOx59sG-4nkWBvadyEUkWAMA3ZVyHGAE&sig=AOD64_3HBmR3PcVpLCCRsc-jjDOK2sT_Rw&client=ca-pub-1056034821646296&rf=1&nb=9&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664201795%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE
+              - img [ref=f3e8]
+            - generic [ref=f3e10]:
+              - generic [ref=f3e13]:
+                - link "View Template (PDF)" [ref=f3e16] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CTPu-TXqXafr3L6qmoPwP8efIiAz91ZizhQHe_7LUvhWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSVAk_Q_nEUxVjY7cMbG8FgpqNMOfn-hUhZdn0UWItgBy4Dkx7lMEZ7udFX5lZ8mP-rZFqyvSCpK1YtIXvvBNy41sBPfYnFH-_07jxBhFE1G382BDWkcUpLGOcb1Xfi34cmdacDq9FA0Z21Ofn8eQC2tfhS7bv5TTbtn9fCb8xvNZY0yL3rgFpBB1KGh24-_Nw5hmlszau6CFzMYOXHDlPQqZorskToml8w9LJTlwbdFjAvJfXgG8808JAADp3esGN55WcWzHPirnoXxsjBV0YczEnkF8t8FLC9TkoFqxGSzmGOhaVc42XJOyFjr5_SOBcnu-OVzhzHZeqW3uFsABMjtfc7HOQWYXG0pv_QCoGcZCkc6vsJ94vABKWItMDABYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY5O7U77nmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIu9fV77nmkgMVKhOICR3xMxLB8A0CiA4J2BML0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAADy_yxBEgo0OTcwMjEyMjIxGAGyGAkSArFfGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE&num=1&cid=CAQSsgEA56J1eQQXju_viX_HCM8Jt4FX-SgxmPPCOAx-euIFts9WnMFl2asl3h-ifrkKO5ihsmdyylxTzHNvePWNeXls9fEcFWUdd3eUpQIKkyS52jeI1dkauPjPXhqRybFvXj0hYL0jg71z_6XNlSApvK8YmP2wyxfnI1NEnv3uL0iYM5es-fyAoj5S3rEEpMTOAbbCp3aAukX5L4eKPGfSOx59sG-4nkWBvadyEUkWAMA3ZVyHGAE&sig=AOD64_3HBmR3PcVpLCCRsc-jjDOK2sT_Rw&client=ca-pub-1056034821646296&rf=1&nb=0&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664201795%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE
+                - link "Edit and Save Recipe" [ref=f3e19] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CTPu-TXqXafr3L6qmoPwP8efIiAz91ZizhQHe_7LUvhWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSVAk_Q_nEUxVjY7cMbG8FgpqNMOfn-hUhZdn0UWItgBy4Dkx7lMEZ7udFX5lZ8mP-rZFqyvSCpK1YtIXvvBNy41sBPfYnFH-_07jxBhFE1G382BDWkcUpLGOcb1Xfi34cmdacDq9FA0Z21Ofn8eQC2tfhS7bv5TTbtn9fCb8xvNZY0yL3rgFpBB1KGh24-_Nw5hmlszau6CFzMYOXHDlPQqZorskToml8w9LJTlwbdFjAvJfXgG8808JAADp3esGN55WcWzHPirnoXxsjBV0YczEnkF8t8FLC9TkoFqxGSzmGOhaVc42XJOyFjr5_SOBcnu-OVzhzHZeqW3uFsABMjtfc7HOQWYXG0pv_QCoGcZCkc6vsJ94vABKWItMDABYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY5O7U77nmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIu9fV77nmkgMVKhOICR3xMxLB8A0CiA4J2BML0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAADy_yxBEgo0OTcwMjEyMjIxGAGyGAkSArFfGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE&num=1&cid=CAQSsgEA56J1eQQXju_viX_HCM8Jt4FX-SgxmPPCOAx-euIFts9WnMFl2asl3h-ifrkKO5ihsmdyylxTzHNvePWNeXls9fEcFWUdd3eUpQIKkyS52jeI1dkauPjPXhqRybFvXj0hYL0jg71z_6XNlSApvK8YmP2wyxfnI1NEnv3uL0iYM5es-fyAoj5S3rEEpMTOAbbCp3aAukX5L4eKPGfSOx59sG-4nkWBvadyEUkWAMA3ZVyHGAE&sig=AOD64_3HBmR3PcVpLCCRsc-jjDOK2sT_Rw&client=ca-pub-1056034821646296&rf=1&nb=7&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664201795%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE
+              - generic [ref=f3e22]:
+                - link:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CTPu-TXqXafr3L6qmoPwP8efIiAz91ZizhQHe_7LUvhWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSVAk_Q_nEUxVjY7cMbG8FgpqNMOfn-hUhZdn0UWItgBy4Dkx7lMEZ7udFX5lZ8mP-rZFqyvSCpK1YtIXvvBNy41sBPfYnFH-_07jxBhFE1G382BDWkcUpLGOcb1Xfi34cmdacDq9FA0Z21Ofn8eQC2tfhS7bv5TTbtn9fCb8xvNZY0yL3rgFpBB1KGh24-_Nw5hmlszau6CFzMYOXHDlPQqZorskToml8w9LJTlwbdFjAvJfXgG8808JAADp3esGN55WcWzHPirnoXxsjBV0YczEnkF8t8FLC9TkoFqxGSzmGOhaVc42XJOyFjr5_SOBcnu-OVzhzHZeqW3uFsABMjtfc7HOQWYXG0pv_QCoGcZCkc6vsJ94vABKWItMDABYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY5O7U77nmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIu9fV77nmkgMVKhOICR3xMxLB8A0CiA4J2BML0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAADy_yxBEgo0OTcwMjEyMjIxGAGyGAkSArFfGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE&num=1&cid=CAQSsgEA56J1eQQXju_viX_HCM8Jt4FX-SgxmPPCOAx-euIFts9WnMFl2asl3h-ifrkKO5ihsmdyylxTzHNvePWNeXls9fEcFWUdd3eUpQIKkyS52jeI1dkauPjPXhqRybFvXj0hYL0jg71z_6XNlSApvK8YmP2wyxfnI1NEnv3uL0iYM5es-fyAoj5S3rEEpMTOAbbCp3aAukX5L4eKPGfSOx59sG-4nkWBvadyEUkWAMA3ZVyHGAE&sig=AOD64_3HBmR3PcVpLCCRsc-jjDOK2sT_Rw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664201795%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE
+                - link "Food Formula" [ref=f3e24] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CTPu-TXqXafr3L6qmoPwP8efIiAz91ZizhQHe_7LUvhWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSVAk_Q_nEUxVjY7cMbG8FgpqNMOfn-hUhZdn0UWItgBy4Dkx7lMEZ7udFX5lZ8mP-rZFqyvSCpK1YtIXvvBNy41sBPfYnFH-_07jxBhFE1G382BDWkcUpLGOcb1Xfi34cmdacDq9FA0Z21Ofn8eQC2tfhS7bv5TTbtn9fCb8xvNZY0yL3rgFpBB1KGh24-_Nw5hmlszau6CFzMYOXHDlPQqZorskToml8w9LJTlwbdFjAvJfXgG8808JAADp3esGN55WcWzHPirnoXxsjBV0YczEnkF8t8FLC9TkoFqxGSzmGOhaVc42XJOyFjr5_SOBcnu-OVzhzHZeqW3uFsABMjtfc7HOQWYXG0pv_QCoGcZCkc6vsJ94vABKWItMDABYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY5O7U77nmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIu9fV77nmkgMVKhOICR3xMxLB8A0CiA4J2BML0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAADy_yxBEgo0OTcwMjEyMjIxGAGyGAkSArFfGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE&num=1&cid=CAQSsgEA56J1eQQXju_viX_HCM8Jt4FX-SgxmPPCOAx-euIFts9WnMFl2asl3h-ifrkKO5ihsmdyylxTzHNvePWNeXls9fEcFWUdd3eUpQIKkyS52jeI1dkauPjPXhqRybFvXj0hYL0jg71z_6XNlSApvK8YmP2wyxfnI1NEnv3uL0iYM5es-fyAoj5S3rEEpMTOAbbCp3aAukX5L4eKPGfSOx59sG-4nkWBvadyEUkWAMA3ZVyHGAE&sig=AOD64_3HBmR3PcVpLCCRsc-jjDOK2sT_Rw&client=ca-pub-1056034821646296&rf=1&nb=1&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664201795%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE
+                - link "Open" [ref=f3e26] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CTPu-TXqXafr3L6qmoPwP8efIiAz91ZizhQHe_7LUvhWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSVAk_Q_nEUxVjY7cMbG8FgpqNMOfn-hUhZdn0UWItgBy4Dkx7lMEZ7udFX5lZ8mP-rZFqyvSCpK1YtIXvvBNy41sBPfYnFH-_07jxBhFE1G382BDWkcUpLGOcb1Xfi34cmdacDq9FA0Z21Ofn8eQC2tfhS7bv5TTbtn9fCb8xvNZY0yL3rgFpBB1KGh24-_Nw5hmlszau6CFzMYOXHDlPQqZorskToml8w9LJTlwbdFjAvJfXgG8808JAADp3esGN55WcWzHPirnoXxsjBV0YczEnkF8t8FLC9TkoFqxGSzmGOhaVc42XJOyFjr5_SOBcnu-OVzhzHZeqW3uFsABMjtfc7HOQWYXG0pv_QCoGcZCkc6vsJ94vABKWItMDABYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY5O7U77nmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIu9fV77nmkgMVKhOICR3xMxLB8A0CiA4J2BML0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAADy_yxBEgo0OTcwMjEyMjIxGAGyGAkSArFfGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE&num=1&cid=CAQSsgEA56J1eQQXju_viX_HCM8Jt4FX-SgxmPPCOAx-euIFts9WnMFl2asl3h-ifrkKO5ihsmdyylxTzHNvePWNeXls9fEcFWUdd3eUpQIKkyS52jeI1dkauPjPXhqRybFvXj0hYL0jg71z_6XNlSApvK8YmP2wyxfnI1NEnv3uL0iYM5es-fyAoj5S3rEEpMTOAbbCp3aAukX5L4eKPGfSOx59sG-4nkWBvadyEUkWAMA3ZVyHGAE&sig=AOD64_3HBmR3PcVpLCCRsc-jjDOK2sT_Rw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664201795%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE
+                - link [ref=f3e27] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CTPu-TXqXafr3L6qmoPwP8efIiAz91ZizhQHe_7LUvhWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSVAk_Q_nEUxVjY7cMbG8FgpqNMOfn-hUhZdn0UWItgBy4Dkx7lMEZ7udFX5lZ8mP-rZFqyvSCpK1YtIXvvBNy41sBPfYnFH-_07jxBhFE1G382BDWkcUpLGOcb1Xfi34cmdacDq9FA0Z21Ofn8eQC2tfhS7bv5TTbtn9fCb8xvNZY0yL3rgFpBB1KGh24-_Nw5hmlszau6CFzMYOXHDlPQqZorskToml8w9LJTlwbdFjAvJfXgG8808JAADp3esGN55WcWzHPirnoXxsjBV0YczEnkF8t8FLC9TkoFqxGSzmGOhaVc42XJOyFjr5_SOBcnu-OVzhzHZeqW3uFsABMjtfc7HOQWYXG0pv_QCoGcZCkc6vsJ94vABKWItMDABYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY5O7U77nmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIu9fV77nmkgMVKhOICR3xMxLB8A0CiA4J2BML0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAADy_yxBEgo0OTcwMjEyMjIxGAGyGAkSArFfGC4iAQDQGAHoGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE&num=1&cid=CAQSsgEA56J1eQQXju_viX_HCM8Jt4FX-SgxmPPCOAx-euIFts9WnMFl2asl3h-ifrkKO5ihsmdyylxTzHNvePWNeXls9fEcFWUdd3eUpQIKkyS52jeI1dkauPjPXhqRybFvXj0hYL0jg71z_6XNlSApvK8YmP2wyxfnI1NEnv3uL0iYM5es-fyAoj5S3rEEpMTOAbbCp3aAukX5L4eKPGfSOx59sG-4nkWBvadyEUkWAMA3ZVyHGAE&sig=AOD64_3HBmR3PcVpLCCRsc-jjDOK2sT_Rw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664201795%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIutLV77nmkgMVKhOICR3xMxLBEAEYASAAEgLJjfD_BwE
+                  - generic [ref=f3e28]:
+                    - img [ref=f3e29]
+                    - img [ref=f3e31]
+          - img [ref=f3e39] [cursor=pointer]
+          - button [ref=f3e42] [cursor=pointer]:
+            - img [ref=f3e43]
+          - iframe
+    - paragraph [ref=e37]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e38] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e39]:
+      - insertion [ref=e41]:
+        - generic [ref=e44]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e46]: Discover more
+          - link "Test automation" [ref=e47] [cursor=pointer]:
+            - generic "Test automation" [ref=e48]
+            - img [ref=e50]
+          - link "Web UI" [ref=e52] [cursor=pointer]:
+            - generic "Web UI" [ref=e53]
+            - img [ref=e55]
+          - link "User interface" [ref=e57] [cursor=pointer]:
+            - generic "User interface" [ref=e58]
+            - img [ref=e60]
+          - link "REST" [ref=e62] [cursor=pointer]:
+            - generic "REST" [ref=e63]
+            - img [ref=e65]
+          - link "Rest" [ref=e67] [cursor=pointer]:
+            - generic "Rest" [ref=e68]
+            - img [ref=e70]
+          - link "API" [ref=e72] [cursor=pointer]:
+            - generic "API" [ref=e73]
+            - img [ref=e75]
+          - link "Application programming interface" [ref=e77] [cursor=pointer]:
+            - generic "Application programming interface" [ref=e78]
+            - img [ref=e80]
+          - link "Web interface" [ref=e82] [cursor=pointer]:
+            - generic "Web interface" [ref=e83]
+            - img [ref=e85]
+      - generic [ref=e89]:
+        - navigation "breadcrumb mb-2" [ref=e90]:
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - link "Home" [ref=e93] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e94]: / JavaScript Dialogs
+        - heading "JavaScript Dialogs page for Automation Testing Practice" [level=1] [ref=e95]
+        - paragraph [ref=e96]:
+          - text: Here are some examples of different JavaScript alerts which can be troublesome for automation
+          - link "QA developer training" [ref=e97] [cursor=pointer]:
+            - img [ref=e99]
+            - text: QA developer training
+        - generic [ref=e103]:
+          - button "Js Alert" [ref=e105] [cursor=pointer]
+          - button "Js Confirm" [ref=e107] [cursor=pointer]
+          - button "Js Prompt" [ref=e109] [cursor=pointer]
+        - generic [ref=e112]:
+          - generic [ref=e113]: "Dialog Response:"
+          - paragraph [ref=e114]: Waiting
+      - insertion [ref=e116]:
+        - generic [ref=e119]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e121]: Discover more
+          - link "Software Testing" [ref=e122] [cursor=pointer]:
+            - generic "Software Testing" [ref=e123]
+            - img [ref=e125]
+          - link "Automation Testing" [ref=e127] [cursor=pointer]:
+            - generic "Automation Testing" [ref=e128]
+            - img [ref=e130]
+          - link "UI" [ref=e132] [cursor=pointer]:
+            - generic "UI" [ref=e133]
+            - img [ref=e135]
+          - link "Test Automation" [ref=e137] [cursor=pointer]:
+            - generic "Test Automation" [ref=e138]
+            - img [ref=e140]
+          - link "Test" [ref=e142] [cursor=pointer]:
+            - generic "Test" [ref=e143]
+            - img [ref=e145]
+          - link "Testing" [ref=e147] [cursor=pointer]:
+            - generic "Testing" [ref=e148]
+            - img [ref=e150]
+          - link "ISTQB exam prep materials" [ref=e152] [cursor=pointer]:
+            - generic "ISTQB exam prep materials" [ref=e153]
+            - img [ref=e155]
+          - link "WebdriverIO" [ref=e157] [cursor=pointer]:
+            - generic "WebdriverIO" [ref=e158]
+            - img [ref=e160]
+  - generic [ref=e162]:
+    - insertion:
+      - iframe [ref=e164]:
+        
+  - contentinfo [ref=e165]:
+    - generic [ref=e170]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e171]
+      - paragraph [ref=e172]:
+        - text: "Version: e64cd80e | Copyright"
+        - link "Expand Testing" [ref=e173] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2026"
+  - img [ref=e175] [cursor=pointer]
+  - insertion [ref=e177]:
+    - iframe [ref=e180]:
+      - generic [active] [ref=f13e1]:
+        - generic [ref=f13e5]:
+          - link [ref=f13e6] [cursor=pointer]:
+            - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CENJWTXqXaaGgMPmOoPwPj6nPEOHji79tsNXZlJEUwI23ARABIJWUmaMBYMn2nozQpNwRoAGlj7W8AsgBCagDAcgDywSqBJsCT9A3z714HDMQBa6U2khIIGHzrlaSy_cke1StVdtXJSkKM_m0k3ccaTipn2Y_-e2K2C2R7u_Fw-lM-Lw7xBRW4t4NFRHW6ZC_Dq8MytaYz4e61LAHZKN1Mruj391a1LqXZP2DmQ6dE6cCrjHQ2EqNcryXVNwb65soI16pJlyjk7Lr86EEX0lxCrO-SwfQHe9psxN0Dk3Q3Hg2EXVAmH5Zo3-SndCBY2e7GO0lWWhhR_HeO2xj9RLurQEWf6rd_Pud_taiAFR2z8LS-Re-xN8O5J7klVK2Fy7_zkVCWypcUO9aqOxH7fBndUUX7ODMDdZ424-_gVck0mPLe6bPDzxZor39nPFq0LRWx6p5veanYadJQbPuzEVRVt-DFcAEnpXi3o4DiAXL7e-vI6AGLoAHw_DKwwGoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj2ktXvueaSA7EJSrabexiabVuACgGYCwHICwGADAGiDAgqBgoE1tqxAqoNAlVTyA0B6g0TCJiC1u-55pIDFXkHiAkdj9QTAvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXAhgBuhcCOAGyGAkSApJPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE&num=1&cid=CAQSswEA56J1eaOhkhNzWKPSNpDri7OnLyDI8-bnAALbhbn8pUyXJTKQLdtE-OlvKS-cJH7A9bhcuMJ47-spFOo4IyazLVlKcfcKCjsuJDNIcMBH7-D91Srk_70y-37vRfolnFawgm7RFuK9kRhEeKOpN1828qKbcQfQwRyeFvuyBO_-IBS5xICWCbS7fcsSVSJdWGRaWP4MCIxvsTL3o0MlvM0IM1LU0K7iL2JxeckV0VioJb86uBgB&sig=AOD64_154ZEs-WndOlzV_IIUdGvpzzguog&client=ca-pub-1056034821646296&rf=1&nb=9&adurl=https://www.downstreem.com/%3Fgad_source%3D5%26gad_campaignid%3D9495639755%26gclid%3DEAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE
+            - img [ref=f13e7]
+          - link [ref=f13e9] [cursor=pointer]:
+            - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CENJWTXqXaaGgMPmOoPwPj6nPEOHji79tsNXZlJEUwI23ARABIJWUmaMBYMn2nozQpNwRoAGlj7W8AsgBCagDAcgDywSqBJsCT9A3z714HDMQBa6U2khIIGHzrlaSy_cke1StVdtXJSkKM_m0k3ccaTipn2Y_-e2K2C2R7u_Fw-lM-Lw7xBRW4t4NFRHW6ZC_Dq8MytaYz4e61LAHZKN1Mruj391a1LqXZP2DmQ6dE6cCrjHQ2EqNcryXVNwb65soI16pJlyjk7Lr86EEX0lxCrO-SwfQHe9psxN0Dk3Q3Hg2EXVAmH5Zo3-SndCBY2e7GO0lWWhhR_HeO2xj9RLurQEWf6rd_Pud_taiAFR2z8LS-Re-xN8O5J7klVK2Fy7_zkVCWypcUO9aqOxH7fBndUUX7ODMDdZ424-_gVck0mPLe6bPDzxZor39nPFq0LRWx6p5veanYadJQbPuzEVRVt-DFcAEnpXi3o4DiAXL7e-vI6AGLoAHw_DKwwGoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj2ktXvueaSA7EJSrabexiabVuACgGYCwHICwGADAGiDAgqBgoE1tqxAqoNAlVTyA0B6g0TCJiC1u-55pIDFXkHiAkdj9QTAvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXAhgBuhcCOAGyGAkSApJPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE&num=1&cid=CAQSswEA56J1eaOhkhNzWKPSNpDri7OnLyDI8-bnAALbhbn8pUyXJTKQLdtE-OlvKS-cJH7A9bhcuMJ47-spFOo4IyazLVlKcfcKCjsuJDNIcMBH7-D91Srk_70y-37vRfolnFawgm7RFuK9kRhEeKOpN1828qKbcQfQwRyeFvuyBO_-IBS5xICWCbS7fcsSVSJdWGRaWP4MCIxvsTL3o0MlvM0IM1LU0K7iL2JxeckV0VioJb86uBgB&sig=AOD64_154ZEs-WndOlzV_IIUdGvpzzguog&client=ca-pub-1056034821646296&rf=1&nb=19&adurl=https://www.downstreem.com/%3Fgad_source%3D5%26gad_campaignid%3D9495639755%26gclid%3DEAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE
+            - img [ref=f13e10]
+          - link "Analysis and Investigations" [ref=f13e13] [cursor=pointer]:
+            - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CENJWTXqXaaGgMPmOoPwPj6nPEOHji79tsNXZlJEUwI23ARABIJWUmaMBYMn2nozQpNwRoAGlj7W8AsgBCagDAcgDywSqBJsCT9A3z714HDMQBa6U2khIIGHzrlaSy_cke1StVdtXJSkKM_m0k3ccaTipn2Y_-e2K2C2R7u_Fw-lM-Lw7xBRW4t4NFRHW6ZC_Dq8MytaYz4e61LAHZKN1Mruj391a1LqXZP2DmQ6dE6cCrjHQ2EqNcryXVNwb65soI16pJlyjk7Lr86EEX0lxCrO-SwfQHe9psxN0Dk3Q3Hg2EXVAmH5Zo3-SndCBY2e7GO0lWWhhR_HeO2xj9RLurQEWf6rd_Pud_taiAFR2z8LS-Re-xN8O5J7klVK2Fy7_zkVCWypcUO9aqOxH7fBndUUX7ODMDdZ424-_gVck0mPLe6bPDzxZor39nPFq0LRWx6p5veanYadJQbPuzEVRVt-DFcAEnpXi3o4DiAXL7e-vI6AGLoAHw_DKwwGoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj2ktXvueaSA7EJSrabexiabVuACgGYCwHICwGADAGiDAgqBgoE1tqxAqoNAlVTyA0B6g0TCJiC1u-55pIDFXkHiAkdj9QTAvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXAhgBuhcCOAGyGAkSApJPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE&num=1&cid=CAQSswEA56J1eaOhkhNzWKPSNpDri7OnLyDI8-bnAALbhbn8pUyXJTKQLdtE-OlvKS-cJH7A9bhcuMJ47-spFOo4IyazLVlKcfcKCjsuJDNIcMBH7-D91Srk_70y-37vRfolnFawgm7RFuK9kRhEeKOpN1828qKbcQfQwRyeFvuyBO_-IBS5xICWCbS7fcsSVSJdWGRaWP4MCIxvsTL3o0MlvM0IM1LU0K7iL2JxeckV0VioJb86uBgB&sig=AOD64_154ZEs-WndOlzV_IIUdGvpzzguog&client=ca-pub-1056034821646296&rf=1&nb=0&adurl=https://www.downstreem.com/%3Fgad_source%3D5%26gad_campaignid%3D9495639755%26gclid%3DEAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE
+          - link "Open" [ref=f13e16] [cursor=pointer]:
+            - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CENJWTXqXaaGgMPmOoPwPj6nPEOHji79tsNXZlJEUwI23ARABIJWUmaMBYMn2nozQpNwRoAGlj7W8AsgBCagDAcgDywSqBJsCT9A3z714HDMQBa6U2khIIGHzrlaSy_cke1StVdtXJSkKM_m0k3ccaTipn2Y_-e2K2C2R7u_Fw-lM-Lw7xBRW4t4NFRHW6ZC_Dq8MytaYz4e61LAHZKN1Mruj391a1LqXZP2DmQ6dE6cCrjHQ2EqNcryXVNwb65soI16pJlyjk7Lr86EEX0lxCrO-SwfQHe9psxN0Dk3Q3Hg2EXVAmH5Zo3-SndCBY2e7GO0lWWhhR_HeO2xj9RLurQEWf6rd_Pud_taiAFR2z8LS-Re-xN8O5J7klVK2Fy7_zkVCWypcUO9aqOxH7fBndUUX7ODMDdZ424-_gVck0mPLe6bPDzxZor39nPFq0LRWx6p5veanYadJQbPuzEVRVt-DFcAEnpXi3o4DiAXL7e-vI6AGLoAHw_DKwwGoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj2ktXvueaSA7EJSrabexiabVuACgGYCwHICwGADAGiDAgqBgoE1tqxAqoNAlVTyA0B6g0TCJiC1u-55pIDFXkHiAkdj9QTAvANAogOCbgT5APYEwrQFQHKFgIKAPgWAYAXAbIXAhgBuhcCOAGyGAkSApJPGC4iAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE&num=1&cid=CAQSswEA56J1eaOhkhNzWKPSNpDri7OnLyDI8-bnAALbhbn8pUyXJTKQLdtE-OlvKS-cJH7A9bhcuMJ47-spFOo4IyazLVlKcfcKCjsuJDNIcMBH7-D91Srk_70y-37vRfolnFawgm7RFuK9kRhEeKOpN1828qKbcQfQwRyeFvuyBO_-IBS5xICWCbS7fcsSVSJdWGRaWP4MCIxvsTL3o0MlvM0IM1LU0K7iL2JxeckV0VioJb86uBgB&sig=AOD64_154ZEs-WndOlzV_IIUdGvpzzguog&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://www.downstreem.com/%3Fgad_source%3D5%26gad_campaignid%3D9495639755%26gclid%3DEAIaIQobChMI4frV77nmkgMVeQeICR2P1BMCEAEYASAAEgJ6cPD_BwE
+            - generic [ref=f13e18]: Open
+        - img [ref=f13e23] [cursor=pointer]
+        - button [ref=f13e26] [cursor=pointer]:
+          - img [ref=f13e27]
+        - iframe
+```

@@ -1,0 +1,183 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "PMP Practice" [ref=e4] [cursor=pointer]:
+      - /url: https://pmp.expandtesting.com/
+    - text: "| Free PMP Certification Mock Exam Test +900 Questions & Quizzes"
+    - link "Software testing courses" [ref=e5] [cursor=pointer]:
+      - img [ref=e7]
+      - text: Software testing courses
+  - banner [ref=e10]:
+    - navigation "Main navigation" [ref=e11]:
+      - link "SUT" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e13]'
+        - text: Practice
+      - generic [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - button "Demos" [ref=e17] [cursor=pointer]
+          - listitem [ref=e18]:
+            - link "Tools" [ref=e19] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e20]:
+            - link "Tips" [ref=e21] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e22]:
+            - link "Test Cases" [ref=e23] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e24]:
+            - link "API Testing" [ref=e25] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e28] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e29]:
+    - insertion [ref=e33]:
+      - iframe [ref=e35]:
+        - generic [active] [ref=f3e1]:
+          - generic [ref=f3e6]:
+            - link [ref=f3e7] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=C7Rp9bnuXafzlJLjFhNEP9JXYsQbe3r6zhQHIlM7fkBX7lcqxjkcQASCVlJmjAWDJ9p6M0KTcEaABrs6u2UHIAQmoAwHIA8sEqgSJAk_QyyNfIbEFHI4FD1BSE33ilRKdQDkysATnYCGkZjpvFYohLl3YrpsQV58ZPUaDjfCx_xERrSABKdnU9Pt4UkUDWVcVvENDdOMB7mzhI3HojS0dCEsssKTSi3-XQXMYZy4rJuWRT1ot73WZRIXIY_zzOm_GECLWkvPsGFO-n8SkMnFxx3qo6zETtPD7nRFt_RfIRsMXv5ezDK0R5MqEEpCn6yPQPZowOfPUTCoC0ZNfw-q0YRZnb4uxI0c8rEOyllF9N_nJfGE3aeQO68ns3O5SjErvebnFAUxNIv4sXow87vJbr1Vbbc7vMa_hB-7mbVj8WZqX3mYyaByZShYiRrNGM4w5heifHEPABLDq9-i5BYgFl7mgjlagBi6AB66G_7gcqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlq2x-brmkgOxCfeW0Q6rvNC7gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIvt-x-brmkgMVuCIhBB30CjZm8A0CiA4J2BMCiBQB0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAAAI4g1BEgo0OTcwMjEyMjIxGAGyGAUYLiIBANAYAQ&ae=1&gclid=EAIaIQobChMI_NSx-brmkgMVuCIhBB30CjZmEAEYASAAEgKUffD_BwE&num=1&cid=CAQSsgEA56J1eTq07765vGHQxcfrVWBOZnhfhdhwYPJ7rgacA-LhmkU1YlcNIYu2GSJvDPqeHkpSFBAnvKD5jf-WhwI8pKO4xeZXY4RYNB2_MTx7mrzZ_9ckSHqNnUmGDgsGyB6l7Tj2yXcgrpP2QWGA1rMRNTy5rNCplFNOLix_ryifOfP2p9xjmzDDG6R1N36hjgyxfH8TcJnzFFYV1fEKRE3nA5FZmZcTz-AyWmloUxSmTd2MGAE&sig=AOD64_3Aw73onPlxFk8nL2dZlfKOZXEFrw&client=ca-pub-1056034821646296&rf=1&nb=9&adurl=https://webhealthnetwork.com/o-o/xtandi/xtandi.php%3Fgad_source%3D5
+              - img [ref=f3e8]
+            - generic [ref=f3e10]:
+              - generic [ref=f3e13]:
+                - link "Xtandi for Prostate Cancer" [ref=f3e16] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=C7Rp9bnuXafzlJLjFhNEP9JXYsQbe3r6zhQHIlM7fkBX7lcqxjkcQASCVlJmjAWDJ9p6M0KTcEaABrs6u2UHIAQmoAwHIA8sEqgSJAk_QyyNfIbEFHI4FD1BSE33ilRKdQDkysATnYCGkZjpvFYohLl3YrpsQV58ZPUaDjfCx_xERrSABKdnU9Pt4UkUDWVcVvENDdOMB7mzhI3HojS0dCEsssKTSi3-XQXMYZy4rJuWRT1ot73WZRIXIY_zzOm_GECLWkvPsGFO-n8SkMnFxx3qo6zETtPD7nRFt_RfIRsMXv5ezDK0R5MqEEpCn6yPQPZowOfPUTCoC0ZNfw-q0YRZnb4uxI0c8rEOyllF9N_nJfGE3aeQO68ns3O5SjErvebnFAUxNIv4sXow87vJbr1Vbbc7vMa_hB-7mbVj8WZqX3mYyaByZShYiRrNGM4w5heifHEPABLDq9-i5BYgFl7mgjlagBi6AB66G_7gcqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlq2x-brmkgOxCfeW0Q6rvNC7gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIvt-x-brmkgMVuCIhBB30CjZm8A0CiA4J2BMCiBQB0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAAAI4g1BEgo0OTcwMjEyMjIxGAGyGAUYLiIBANAYAQ&ae=1&gclid=EAIaIQobChMI_NSx-brmkgMVuCIhBB30CjZmEAEYASAAEgKUffD_BwE&num=1&cid=CAQSsgEA56J1eTq07765vGHQxcfrVWBOZnhfhdhwYPJ7rgacA-LhmkU1YlcNIYu2GSJvDPqeHkpSFBAnvKD5jf-WhwI8pKO4xeZXY4RYNB2_MTx7mrzZ_9ckSHqNnUmGDgsGyB6l7Tj2yXcgrpP2QWGA1rMRNTy5rNCplFNOLix_ryifOfP2p9xjmzDDG6R1N36hjgyxfH8TcJnzFFYV1fEKRE3nA5FZmZcTz-AyWmloUxSmTd2MGAE&sig=AOD64_3Aw73onPlxFk8nL2dZlfKOZXEFrw&client=ca-pub-1056034821646296&rf=1&nb=0&adurl=https://webhealthnetwork.com/o-o/xtandi/xtandi.php%3Fgad_source%3D5
+                - link "Review efficacy data of Xtandi in patients with metastatic castration- sensitive PC." [ref=f3e19] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=C7Rp9bnuXafzlJLjFhNEP9JXYsQbe3r6zhQHIlM7fkBX7lcqxjkcQASCVlJmjAWDJ9p6M0KTcEaABrs6u2UHIAQmoAwHIA8sEqgSJAk_QyyNfIbEFHI4FD1BSE33ilRKdQDkysATnYCGkZjpvFYohLl3YrpsQV58ZPUaDjfCx_xERrSABKdnU9Pt4UkUDWVcVvENDdOMB7mzhI3HojS0dCEsssKTSi3-XQXMYZy4rJuWRT1ot73WZRIXIY_zzOm_GECLWkvPsGFO-n8SkMnFxx3qo6zETtPD7nRFt_RfIRsMXv5ezDK0R5MqEEpCn6yPQPZowOfPUTCoC0ZNfw-q0YRZnb4uxI0c8rEOyllF9N_nJfGE3aeQO68ns3O5SjErvebnFAUxNIv4sXow87vJbr1Vbbc7vMa_hB-7mbVj8WZqX3mYyaByZShYiRrNGM4w5heifHEPABLDq9-i5BYgFl7mgjlagBi6AB66G_7gcqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlq2x-brmkgOxCfeW0Q6rvNC7gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIvt-x-brmkgMVuCIhBB30CjZm8A0CiA4J2BMCiBQB0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAAAI4g1BEgo0OTcwMjEyMjIxGAGyGAUYLiIBANAYAQ&ae=1&gclid=EAIaIQobChMI_NSx-brmkgMVuCIhBB30CjZmEAEYASAAEgKUffD_BwE&num=1&cid=CAQSsgEA56J1eTq07765vGHQxcfrVWBOZnhfhdhwYPJ7rgacA-LhmkU1YlcNIYu2GSJvDPqeHkpSFBAnvKD5jf-WhwI8pKO4xeZXY4RYNB2_MTx7mrzZ_9ckSHqNnUmGDgsGyB6l7Tj2yXcgrpP2QWGA1rMRNTy5rNCplFNOLix_ryifOfP2p9xjmzDDG6R1N36hjgyxfH8TcJnzFFYV1fEKRE3nA5FZmZcTz-AyWmloUxSmTd2MGAE&sig=AOD64_3Aw73onPlxFk8nL2dZlfKOZXEFrw&client=ca-pub-1056034821646296&rf=1&nb=7&adurl=https://webhealthnetwork.com/o-o/xtandi/xtandi.php%3Fgad_source%3D5
+                  - text: Review efficacy data of Xtandi in patients with metastatic castration-
+                  - text: sensitive PC.
+              - generic [ref=f3e22]:
+                - link:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=C7Rp9bnuXafzlJLjFhNEP9JXYsQbe3r6zhQHIlM7fkBX7lcqxjkcQASCVlJmjAWDJ9p6M0KTcEaABrs6u2UHIAQmoAwHIA8sEqgSJAk_QyyNfIbEFHI4FD1BSE33ilRKdQDkysATnYCGkZjpvFYohLl3YrpsQV58ZPUaDjfCx_xERrSABKdnU9Pt4UkUDWVcVvENDdOMB7mzhI3HojS0dCEsssKTSi3-XQXMYZy4rJuWRT1ot73WZRIXIY_zzOm_GECLWkvPsGFO-n8SkMnFxx3qo6zETtPD7nRFt_RfIRsMXv5ezDK0R5MqEEpCn6yPQPZowOfPUTCoC0ZNfw-q0YRZnb4uxI0c8rEOyllF9N_nJfGE3aeQO68ns3O5SjErvebnFAUxNIv4sXow87vJbr1Vbbc7vMa_hB-7mbVj8WZqX3mYyaByZShYiRrNGM4w5heifHEPABLDq9-i5BYgFl7mgjlagBi6AB66G_7gcqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlq2x-brmkgOxCfeW0Q6rvNC7gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIvt-x-brmkgMVuCIhBB30CjZm8A0CiA4J2BMCiBQB0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAAAI4g1BEgo0OTcwMjEyMjIxGAGyGAUYLiIBANAYAQ&ae=1&gclid=EAIaIQobChMI_NSx-brmkgMVuCIhBB30CjZmEAEYASAAEgKUffD_BwE&num=1&cid=CAQSsgEA56J1eTq07765vGHQxcfrVWBOZnhfhdhwYPJ7rgacA-LhmkU1YlcNIYu2GSJvDPqeHkpSFBAnvKD5jf-WhwI8pKO4xeZXY4RYNB2_MTx7mrzZ_9ckSHqNnUmGDgsGyB6l7Tj2yXcgrpP2QWGA1rMRNTy5rNCplFNOLix_ryifOfP2p9xjmzDDG6R1N36hjgyxfH8TcJnzFFYV1fEKRE3nA5FZmZcTz-AyWmloUxSmTd2MGAE&sig=AOD64_3Aw73onPlxFk8nL2dZlfKOZXEFrw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://webhealthnetwork.com/o-o/xtandi/xtandi.php%3Fgad_source%3D5
+                - link "Webhealth Network" [ref=f3e24] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=C7Rp9bnuXafzlJLjFhNEP9JXYsQbe3r6zhQHIlM7fkBX7lcqxjkcQASCVlJmjAWDJ9p6M0KTcEaABrs6u2UHIAQmoAwHIA8sEqgSJAk_QyyNfIbEFHI4FD1BSE33ilRKdQDkysATnYCGkZjpvFYohLl3YrpsQV58ZPUaDjfCx_xERrSABKdnU9Pt4UkUDWVcVvENDdOMB7mzhI3HojS0dCEsssKTSi3-XQXMYZy4rJuWRT1ot73WZRIXIY_zzOm_GECLWkvPsGFO-n8SkMnFxx3qo6zETtPD7nRFt_RfIRsMXv5ezDK0R5MqEEpCn6yPQPZowOfPUTCoC0ZNfw-q0YRZnb4uxI0c8rEOyllF9N_nJfGE3aeQO68ns3O5SjErvebnFAUxNIv4sXow87vJbr1Vbbc7vMa_hB-7mbVj8WZqX3mYyaByZShYiRrNGM4w5heifHEPABLDq9-i5BYgFl7mgjlagBi6AB66G_7gcqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlq2x-brmkgOxCfeW0Q6rvNC7gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIvt-x-brmkgMVuCIhBB30CjZm8A0CiA4J2BMCiBQB0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAAAI4g1BEgo0OTcwMjEyMjIxGAGyGAUYLiIBANAYAQ&ae=1&gclid=EAIaIQobChMI_NSx-brmkgMVuCIhBB30CjZmEAEYASAAEgKUffD_BwE&num=1&cid=CAQSsgEA56J1eTq07765vGHQxcfrVWBOZnhfhdhwYPJ7rgacA-LhmkU1YlcNIYu2GSJvDPqeHkpSFBAnvKD5jf-WhwI8pKO4xeZXY4RYNB2_MTx7mrzZ_9ckSHqNnUmGDgsGyB6l7Tj2yXcgrpP2QWGA1rMRNTy5rNCplFNOLix_ryifOfP2p9xjmzDDG6R1N36hjgyxfH8TcJnzFFYV1fEKRE3nA5FZmZcTz-AyWmloUxSmTd2MGAE&sig=AOD64_3Aw73onPlxFk8nL2dZlfKOZXEFrw&client=ca-pub-1056034821646296&rf=1&nb=1&adurl=https://webhealthnetwork.com/o-o/xtandi/xtandi.php%3Fgad_source%3D5
+                - link "See More" [ref=f3e26] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=C7Rp9bnuXafzlJLjFhNEP9JXYsQbe3r6zhQHIlM7fkBX7lcqxjkcQASCVlJmjAWDJ9p6M0KTcEaABrs6u2UHIAQmoAwHIA8sEqgSJAk_QyyNfIbEFHI4FD1BSE33ilRKdQDkysATnYCGkZjpvFYohLl3YrpsQV58ZPUaDjfCx_xERrSABKdnU9Pt4UkUDWVcVvENDdOMB7mzhI3HojS0dCEsssKTSi3-XQXMYZy4rJuWRT1ot73WZRIXIY_zzOm_GECLWkvPsGFO-n8SkMnFxx3qo6zETtPD7nRFt_RfIRsMXv5ezDK0R5MqEEpCn6yPQPZowOfPUTCoC0ZNfw-q0YRZnb4uxI0c8rEOyllF9N_nJfGE3aeQO68ns3O5SjErvebnFAUxNIv4sXow87vJbr1Vbbc7vMa_hB-7mbVj8WZqX3mYyaByZShYiRrNGM4w5heifHEPABLDq9-i5BYgFl7mgjlagBi6AB66G_7gcqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlq2x-brmkgOxCfeW0Q6rvNC7gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIvt-x-brmkgMVuCIhBB30CjZm8A0CiA4J2BMCiBQB0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAAAI4g1BEgo0OTcwMjEyMjIxGAGyGAUYLiIBANAYAQ&ae=1&gclid=EAIaIQobChMI_NSx-brmkgMVuCIhBB30CjZmEAEYASAAEgKUffD_BwE&num=1&cid=CAQSsgEA56J1eTq07765vGHQxcfrVWBOZnhfhdhwYPJ7rgacA-LhmkU1YlcNIYu2GSJvDPqeHkpSFBAnvKD5jf-WhwI8pKO4xeZXY4RYNB2_MTx7mrzZ_9ckSHqNnUmGDgsGyB6l7Tj2yXcgrpP2QWGA1rMRNTy5rNCplFNOLix_ryifOfP2p9xjmzDDG6R1N36hjgyxfH8TcJnzFFYV1fEKRE3nA5FZmZcTz-AyWmloUxSmTd2MGAE&sig=AOD64_3Aw73onPlxFk8nL2dZlfKOZXEFrw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://webhealthnetwork.com/o-o/xtandi/xtandi.php%3Fgad_source%3D5
+                - link [ref=f3e27] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=C7Rp9bnuXafzlJLjFhNEP9JXYsQbe3r6zhQHIlM7fkBX7lcqxjkcQASCVlJmjAWDJ9p6M0KTcEaABrs6u2UHIAQmoAwHIA8sEqgSJAk_QyyNfIbEFHI4FD1BSE33ilRKdQDkysATnYCGkZjpvFYohLl3YrpsQV58ZPUaDjfCx_xERrSABKdnU9Pt4UkUDWVcVvENDdOMB7mzhI3HojS0dCEsssKTSi3-XQXMYZy4rJuWRT1ot73WZRIXIY_zzOm_GECLWkvPsGFO-n8SkMnFxx3qo6zETtPD7nRFt_RfIRsMXv5ezDK0R5MqEEpCn6yPQPZowOfPUTCoC0ZNfw-q0YRZnb4uxI0c8rEOyllF9N_nJfGE3aeQO68ns3O5SjErvebnFAUxNIv4sXow87vJbr1Vbbc7vMa_hB-7mbVj8WZqX3mYyaByZShYiRrNGM4w5heifHEPABLDq9-i5BYgFl7mgjlagBi6AB66G_7gcqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlq2x-brmkgOxCfeW0Q6rvNC7gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMIvt-x-brmkgMVuCIhBB30CjZm8A0CiA4J2BMCiBQB0BUByhYCCgD4FgGAFwGyFw4YASoKNDk3MDIxMjIyMboXAjgBqhgXCQAAAAAI4g1BEgo0OTcwMjEyMjIxGAGyGAUYLiIBANAYAQ&ae=1&gclid=EAIaIQobChMI_NSx-brmkgMVuCIhBB30CjZmEAEYASAAEgKUffD_BwE&num=1&cid=CAQSsgEA56J1eTq07765vGHQxcfrVWBOZnhfhdhwYPJ7rgacA-LhmkU1YlcNIYu2GSJvDPqeHkpSFBAnvKD5jf-WhwI8pKO4xeZXY4RYNB2_MTx7mrzZ_9ckSHqNnUmGDgsGyB6l7Tj2yXcgrpP2QWGA1rMRNTy5rNCplFNOLix_ryifOfP2p9xjmzDDG6R1N36hjgyxfH8TcJnzFFYV1fEKRE3nA5FZmZcTz-AyWmloUxSmTd2MGAE&sig=AOD64_3Aw73onPlxFk8nL2dZlfKOZXEFrw&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://webhealthnetwork.com/o-o/xtandi/xtandi.php%3Fgad_source%3D5
+                  - generic [ref=f3e28]:
+                    - img [ref=f3e29]
+                    - img [ref=f3e31]
+          - img [ref=f3e39] [cursor=pointer]
+          - button [ref=f3e42] [cursor=pointer]:
+            - img [ref=f3e43]
+          - iframe
+    - paragraph [ref=e37]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e38] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e39]:
+      - insertion [ref=e41]:
+        - generic [ref=e44]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e46]: Discover more
+          - link "UI" [ref=e47] [cursor=pointer]:
+            - generic "UI" [ref=e48]
+            - img [ref=e50]
+          - link "User interface" [ref=e52] [cursor=pointer]:
+            - generic "User interface" [ref=e53]
+            - img [ref=e55]
+          - link "Automation Testing" [ref=e57] [cursor=pointer]:
+            - generic "Automation Testing" [ref=e58]
+            - img [ref=e60]
+          - link "Test" [ref=e62] [cursor=pointer]:
+            - generic "Test" [ref=e63]
+            - img [ref=e65]
+          - link "Test Automation" [ref=e67] [cursor=pointer]:
+            - generic "Test Automation" [ref=e68]
+            - img [ref=e70]
+          - link "Rest" [ref=e72] [cursor=pointer]:
+            - generic "Rest" [ref=e73]
+            - img [ref=e75]
+          - link "Application programming interface" [ref=e77] [cursor=pointer]:
+            - generic "Application programming interface" [ref=e78]
+            - img [ref=e80]
+          - link "REST" [ref=e82] [cursor=pointer]:
+            - generic "REST" [ref=e83]
+            - img [ref=e85]
+      - generic [ref=e89]:
+        - navigation "breadcrumb mb-2" [ref=e90]:
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - link "Home" [ref=e93] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e94]: / JavaScript Dialogs
+        - heading "JavaScript Dialogs page for Automation Testing Practice" [level=1] [ref=e95]
+        - paragraph [ref=e96]:
+          - text: Here are some examples of different JavaScript alerts which can be troublesome for automation
+          - link "QA developer training" [ref=e97] [cursor=pointer]:
+            - img [ref=e99]
+            - text: QA developer training
+        - generic [ref=e103]:
+          - button "Js Alert" [ref=e105] [cursor=pointer]
+          - button "Js Confirm" [ref=e107] [cursor=pointer]
+          - button "Js Prompt" [ref=e109] [cursor=pointer]
+        - generic [ref=e112]:
+          - generic [ref=e113]: "Dialog Response:"
+          - paragraph [ref=e114]: Waiting
+      - insertion [ref=e116]:
+        - generic [ref=e119]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e121]: Discover more
+          - link "Web interface" [ref=e122] [cursor=pointer]:
+            - generic "Web interface" [ref=e123]
+            - img [ref=e125]
+          - link "Web UI" [ref=e127] [cursor=pointer]:
+            - generic "Web UI" [ref=e128]
+            - img [ref=e130]
+          - link "Testing" [ref=e132] [cursor=pointer]:
+            - generic "Testing" [ref=e133]
+            - img [ref=e135]
+          - link "Test automation" [ref=e137] [cursor=pointer]:
+            - generic "Test automation" [ref=e138]
+            - img [ref=e140]
+          - link "API" [ref=e142] [cursor=pointer]:
+            - generic "API" [ref=e143]
+            - img [ref=e145]
+          - link "Software Testing" [ref=e147] [cursor=pointer]:
+            - generic "Software Testing" [ref=e148]
+            - img [ref=e150]
+          - link "Version control systems" [ref=e152] [cursor=pointer]:
+            - generic "Version control systems" [ref=e153]
+            - img [ref=e155]
+          - link "Website testing services" [ref=e157] [cursor=pointer]:
+            - generic "Website testing services" [ref=e158]
+            - img [ref=e160]
+  - insertion [ref=e163]:
+    - iframe [ref=e165]:
+      - generic [active] [ref=f10e1]:
+        - generic [ref=f10e5]:
+          - generic [ref=f10e6]:
+            - link [ref=f10e7] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CZAuUb3uXae7cH76wpeEP5-LwuAr91ZizhQGd5OX6mRWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSPAk_QgkdhT5IcWhRS1YjiIk7vWGR8gL05MM9O6UMI1WUmHBe4gkakSvl5QVQCa0Nt14HJAknhkIo58lVZ-KBGHB-M1FVQ4sRVSlhee6zpqqbPtAs3SHndEf2o7Lj7pFFJfVgNpRF8BOLYh4ze0sBdfgJNBH6L9oG0Jf6FScXv4mLIXvhI0HKbNBkL2zstxkh_Pi5d_-IUfncij0_d1af0AEUiUQyEJyVwdx-1MkRAaKb7kEBUqSgOansLkvH7XcYSWeZs4g7aK-7MWkDHo31Kp7541sxbZUR1VKR51P6dSH4YWJUbopmssLOrEDvR3G3QGWMCe39391kgi37OEg9cX5sMBaeuduyXT1NC70j-EkTABLLjgIC6BYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlOjo-brmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMI3Nzp-brmkgMVPlgpBh1nMRyn8A0CiA4JuBPkA9gTC9AVAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICsV8YLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE&num=1&cid=CAQSnwEA56J1eaq354SLAgHCzWajPMLz9I6ddBiXnUY3meBwj5ST3Ou5qBh6T6iHhJc7KBWNMqFYH_XO5IS9aj70Cn3ngMXYVdiZ05o7yHoAi-qiwWzktHNthpLIvmjIQcKKk6mfA1WIEL9d1GrAnjFEEtKh78twLRiYDkdTdsOYh6j-F_2crrRNMM_4IwdxRbo9YF9Og3f4Gp93bY266LH6x-wYAQ&sig=AOD64_3_B_GuCePnvpRdO60uqb8NDI0XJg&client=ca-pub-1056034821646296&rf=1&nb=9&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664190701%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE
+              - img [ref=f10e8]
+            - link "View Template (PDF)" [ref=f10e11] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CZAuUb3uXae7cH76wpeEP5-LwuAr91ZizhQGd5OX6mRWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSPAk_QgkdhT5IcWhRS1YjiIk7vWGR8gL05MM9O6UMI1WUmHBe4gkakSvl5QVQCa0Nt14HJAknhkIo58lVZ-KBGHB-M1FVQ4sRVSlhee6zpqqbPtAs3SHndEf2o7Lj7pFFJfVgNpRF8BOLYh4ze0sBdfgJNBH6L9oG0Jf6FScXv4mLIXvhI0HKbNBkL2zstxkh_Pi5d_-IUfncij0_d1af0AEUiUQyEJyVwdx-1MkRAaKb7kEBUqSgOansLkvH7XcYSWeZs4g7aK-7MWkDHo31Kp7541sxbZUR1VKR51P6dSH4YWJUbopmssLOrEDvR3G3QGWMCe39391kgi37OEg9cX5sMBaeuduyXT1NC70j-EkTABLLjgIC6BYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlOjo-brmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMI3Nzp-brmkgMVPlgpBh1nMRyn8A0CiA4JuBPkA9gTC9AVAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICsV8YLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE&num=1&cid=CAQSnwEA56J1eaq354SLAgHCzWajPMLz9I6ddBiXnUY3meBwj5ST3Ou5qBh6T6iHhJc7KBWNMqFYH_XO5IS9aj70Cn3ngMXYVdiZ05o7yHoAi-qiwWzktHNthpLIvmjIQcKKk6mfA1WIEL9d1GrAnjFEEtKh78twLRiYDkdTdsOYh6j-F_2crrRNMM_4IwdxRbo9YF9Og3f4Gp93bY266LH6x-wYAQ&sig=AOD64_3_B_GuCePnvpRdO60uqb8NDI0XJg&client=ca-pub-1056034821646296&rf=1&nb=0&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664190701%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE
+          - generic [ref=f10e12]:
+            - link [ref=f10e13] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CZAuUb3uXae7cH76wpeEP5-LwuAr91ZizhQGd5OX6mRWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSPAk_QgkdhT5IcWhRS1YjiIk7vWGR8gL05MM9O6UMI1WUmHBe4gkakSvl5QVQCa0Nt14HJAknhkIo58lVZ-KBGHB-M1FVQ4sRVSlhee6zpqqbPtAs3SHndEf2o7Lj7pFFJfVgNpRF8BOLYh4ze0sBdfgJNBH6L9oG0Jf6FScXv4mLIXvhI0HKbNBkL2zstxkh_Pi5d_-IUfncij0_d1af0AEUiUQyEJyVwdx-1MkRAaKb7kEBUqSgOansLkvH7XcYSWeZs4g7aK-7MWkDHo31Kp7541sxbZUR1VKR51P6dSH4YWJUbopmssLOrEDvR3G3QGWMCe39391kgi37OEg9cX5sMBaeuduyXT1NC70j-EkTABLLjgIC6BYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlOjo-brmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMI3Nzp-brmkgMVPlgpBh1nMRyn8A0CiA4JuBPkA9gTC9AVAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICsV8YLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE&num=1&cid=CAQSnwEA56J1eaq354SLAgHCzWajPMLz9I6ddBiXnUY3meBwj5ST3Ou5qBh6T6iHhJc7KBWNMqFYH_XO5IS9aj70Cn3ngMXYVdiZ05o7yHoAi-qiwWzktHNthpLIvmjIQcKKk6mfA1WIEL9d1GrAnjFEEtKh78twLRiYDkdTdsOYh6j-F_2crrRNMM_4IwdxRbo9YF9Og3f4Gp93bY266LH6x-wYAQ&sig=AOD64_3_B_GuCePnvpRdO60uqb8NDI0XJg&client=ca-pub-1056034821646296&rf=1&nb=19&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664190701%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE
+              - img [ref=f10e14]
+            - link "Food Formula" [ref=f10e16] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CZAuUb3uXae7cH76wpeEP5-LwuAr91ZizhQGd5OX6mRWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSPAk_QgkdhT5IcWhRS1YjiIk7vWGR8gL05MM9O6UMI1WUmHBe4gkakSvl5QVQCa0Nt14HJAknhkIo58lVZ-KBGHB-M1FVQ4sRVSlhee6zpqqbPtAs3SHndEf2o7Lj7pFFJfVgNpRF8BOLYh4ze0sBdfgJNBH6L9oG0Jf6FScXv4mLIXvhI0HKbNBkL2zstxkh_Pi5d_-IUfncij0_d1af0AEUiUQyEJyVwdx-1MkRAaKb7kEBUqSgOansLkvH7XcYSWeZs4g7aK-7MWkDHo31Kp7541sxbZUR1VKR51P6dSH4YWJUbopmssLOrEDvR3G3QGWMCe39391kgi37OEg9cX5sMBaeuduyXT1NC70j-EkTABLLjgIC6BYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlOjo-brmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMI3Nzp-brmkgMVPlgpBh1nMRyn8A0CiA4JuBPkA9gTC9AVAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICsV8YLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE&num=1&cid=CAQSnwEA56J1eaq354SLAgHCzWajPMLz9I6ddBiXnUY3meBwj5ST3Ou5qBh6T6iHhJc7KBWNMqFYH_XO5IS9aj70Cn3ngMXYVdiZ05o7yHoAi-qiwWzktHNthpLIvmjIQcKKk6mfA1WIEL9d1GrAnjFEEtKh78twLRiYDkdTdsOYh6j-F_2crrRNMM_4IwdxRbo9YF9Og3f4Gp93bY266LH6x-wYAQ&sig=AOD64_3_B_GuCePnvpRdO60uqb8NDI0XJg&client=ca-pub-1056034821646296&rf=1&nb=1&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664190701%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE
+            - link "Open" [ref=f10e17] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CZAuUb3uXae7cH76wpeEP5-LwuAr91ZizhQGd5OX6mRWm4sLTgyoQASCVlJmjAWDJ9p6M0KTcEaABjciD4z_IAQmoAwHIA8sEqgSPAk_QgkdhT5IcWhRS1YjiIk7vWGR8gL05MM9O6UMI1WUmHBe4gkakSvl5QVQCa0Nt14HJAknhkIo58lVZ-KBGHB-M1FVQ4sRVSlhee6zpqqbPtAs3SHndEf2o7Lj7pFFJfVgNpRF8BOLYh4ze0sBdfgJNBH6L9oG0Jf6FScXv4mLIXvhI0HKbNBkL2zstxkh_Pi5d_-IUfncij0_d1af0AEUiUQyEJyVwdx-1MkRAaKb7kEBUqSgOansLkvH7XcYSWeZs4g7aK-7MWkDHo31Kp7541sxbZUR1VKR51P6dSH4YWJUbopmssLOrEDvR3G3QGWMCe39391kgi37OEg9cX5sMBaeuduyXT1NC70j-EkTABLLjgIC6BYgF472Kx1egBi6AB42A1MIaqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYlOjo-brmkgOxCTg71Li5ZTF_gAoBmAsByAsBgAwBqg0CVVPIDQHqDRMI3Nzp-brmkgMVPlgpBh1nMRyn8A0CiA4JuBPkA9gTC9AVAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICsV8YLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE&num=1&cid=CAQSnwEA56J1eaq354SLAgHCzWajPMLz9I6ddBiXnUY3meBwj5ST3Ou5qBh6T6iHhJc7KBWNMqFYH_XO5IS9aj70Cn3ngMXYVdiZ05o7yHoAi-qiwWzktHNthpLIvmjIQcKKk6mfA1WIEL9d1GrAnjFEEtKh78twLRiYDkdTdsOYh6j-F_2crrRNMM_4IwdxRbo9YF9Og3f4Gp93bY266LH6x-wYAQ&sig=AOD64_3_B_GuCePnvpRdO60uqb8NDI0XJg&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://dish-desk.com/document/ready%3Fcampaign_id%3D23493159069%26adgroup_id%3D6664190701%26placement_id%3D%26creative_id%3D%26spa%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE%26gad_source%3D5%26gad_campaignid%3D23502954211%26gclid%3DEAIaIQobChMIrtDp-brmkgMVPlgpBh1nMRynEAEYASAAEgInXvD_BwE
+              - generic [ref=f10e19]: Open
+        - img [ref=f10e23] [cursor=pointer]
+        - button [ref=f10e26] [cursor=pointer]:
+          - img [ref=f10e27]
+        - iframe
+  - contentinfo [ref=e166]:
+    - generic [ref=e171]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e172]
+      - paragraph [ref=e173]:
+        - text: "Version: e64cd80e | Copyright"
+        - link "Expand Testing" [ref=e174] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2026"
+  - img [ref=e176] [cursor=pointer]
+```

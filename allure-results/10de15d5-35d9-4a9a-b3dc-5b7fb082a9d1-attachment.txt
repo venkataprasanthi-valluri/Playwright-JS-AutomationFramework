@@ -1,0 +1,3 @@
+Rows count is: 30
+Headers count is: 2
+Header 0is NaN
